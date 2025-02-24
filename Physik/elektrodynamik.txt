@@ -1,0 +1,78 @@
+Was beschreibt die Telegraphengleichung? --Der metallische Draht einer Telegraphenleitung dient im Wesentlichen als Führung der Wellen.
+Was beschreibt die Larmorferquenz? --In der Quantenmechanik die Frequenz der Präzessionsbewegung eines Elementarteilchens in einem externen Magnetfeld.
+Was ist der Skin-Effekt? --Stromverdrängungs-Effekt in von höherfrequentem Wechselstrom durchflossenen elektrischen Leitern, durch den die Stromdichte im Inneren eines Leiters niedriger ist als in äußeren Bereichen. 
+Was beschreibt die Aberration in der Astronomie? --Scheinbare Ortsveränderung von Gestirnen durch die Endlichkeit der Lichtgeschwindigkeit
+Wann liegt anomale Dispersion vor? --Wenn der Brechungsindex mit steigender Frequenz fällt.
+Was besagt das Amperesche Gesetz? --Dass elektrische Ströme magnetische Wirbelfelder hervorrufen, deren Stärke im Wesentlichen durch die Stromstärke gegeben ist.
+Was besagt das Huygensche Prinzip? --Von jedem Punkt der Blendenöffnung geht eine Kugelwelle aus.
+Was ist der Unterschied zwischen Beugung und Streuung? --Eine klare Definition ist in der Literatur selten. Man könnte annehmen, dass sich Beugung auf Wellen an scharfen Kanten zweidimensionaler (2D) Objekte bezieht, während sich Streuung auf dreidimensionale (3D) Objekte bezieht.
+Was beschreiben die Fresnelschen Formeln? --Quantitativ die Reflexion und Transmission einer ebenen, elektromagnetischen Welle an einer ebenen Grenzfläche. Der zunächst berechnete Reflexions- und Transmissionsfaktor ist das Verhältnis der reflektierten bzw. transmittierten Amplitude zu jener der einfallenden Welle. Durch Quadrieren erhält man den Reflexions- bzw. den Transmissionsgrad, welche als Energiegrößen Intensitätsverhältnisse darstellen.
+Welche 2 Naturkonstanten definieren seit der Revision des SI von 2019 das Ohm? --Die Elementarladung und die Planck-Konstante. h/e² wird die Von-Kitzling-Konstante genannt
+Was macht eine optische Konstante? --beschreibt, wie ein Material Licht überträgt, reflektiert, absorbiert, bricht oder streut
+Wie lautet die Definition von Ampere? --Entspricht einen Strom von 1 Coulomb pro Sekunde durch einen Leiterquerschnitt
+Wie ist ein Dielektrikum definiert?--Als elektrisch schwach- oder nichtleitende Substand, in der die vorhandenen Ladungsträger nicht frei beweglich sind.
+In welche Richtung wirkt ein Diamagnet?-- Entgegen dem äußeren Magnetfeld. Das Gegenteil ist der Paramagnet.
+Was macht die magn. Feldstärke? -- ordnet als vektorielle Größe jedem Raumpunkt eine Stärke und Richtung des durch die magnetische Spannung erzeugten Magnetfeldes zu.
+Was ist die Magnetisierung? --Charakterisierung des magnetischen Zustands eines Materials. Sie ist ein Vektorfeld, das die Dichte von permanenten oder induzierten magnetischen Dipolen in einem magnetischen Material beschreibt und berechnet sich als das magnetische Moment pro Volumen 
+Welche andren Ausdrücke gibt es noch für elektrische Flussdiche? --elektrische Erregung, dielektrische Verschiebung, Verschiebungsdichte oder Verschiebungsflussdichte
+Was gibt der Brewsterwinkel an? --gibt an, bei dem von Licht, das auf die Grenzfläche zweier dielektrischer Medien einfällt, nur die senkrecht zur Einfallsebene polarisierten Anteile (bezogen auf die elektrische Feldkomponente) reflektiert werden. Das reflektierte Licht ist dann linear polarisiert.
+Was ist eine Eichung der Elektrodynamik? -- Einschränkung der elektrodynamischen Potentiale
+Was ist die magnetische Suszeptibilität?-- Die Magnetisierbarkeit von Materie in einem externen Magnetfeld
+Ist der d'Alembertsche Operator lorentzinvariant?-- jupp
+Was sind andere Bezeichnungen für Permittivität?-- Dielektrische Leitfähigkeit, Dielektrizität oder dielektrische Funktion. (Dielektrizitätskonstante ist fachsprachlich nicht anerkannt.)
+Was gibt die Permittivität an?-- Polarisationsfähigkeit eines Materials durch elektrische Felder
+Was sind die Dirichlet-Randbedingung?-- Randbedingung (nicht abgeleitet)
+Was sind die Neumann-Randbedingung?-- Randbedingung  abgeleitet
+Was ist das Drude-Modell?-- klassische Beschreibung des Ladungstransports durch ein externes elektrisches Feld in Metallen oder verallgemeinert durch freie Elektronen in Festkörpern.
+Was sind die Eigenschaften des Feldstärketensors?-- antisymmetrisch, Spur verschwindet, Aufgrund der Antisymmetrie sind nur 6 von 16 Komponenten unabhängig
+Was macht eine Eichtransformation?--verändert die Eichfelder einer physikalischen Theorie dergestalt, dass die physikalisch wirksamen Felder (z. B. das elektromagnetische Feld oder ein Kraftfeld) und damit alle beobachtbaren Abläufe dabei die gleichen bleiben
+Was ist das Eikonal?-- Strecke eine Lichtstrahls zwischen Ausgangs- und Endpunkt
+Was ist ein Elektret?--ein elektrisch isolierendes Material, das quasi-permanent gespeicherte elektrische Ladungen oder quasi-permanent ausgerichtete elektrische Dipole enthält und somit ein quasi-permanentes elektrisches Feld in seiner Umgebung oder in seinem Inneren erzeugt. 
+Was ist die elektrische Suszeptibilität?-- eine Materialeigenschaft, welche die Fähigkeit zur elektrischen Polarisierung in einem eingeprägten elektrischen Feld angibt
+Was ist ein Farad?--Ein Kondensator, der durch das Aufladen auf eine Spannung von einem Volt (V) eine Ladung von einem Coulomb (C) speichert
+Woran erkennt man, dass ein Körper ein magnetisches Dipolmoment hat?-- Das erkennt man an dem Drehmoment, welches im Magnetfeld auf ihn wirkt und das kann man aus Messungen mit einer Hall-Sonde schließen.
+Wie verändert ein Stoff mit ε r = 2 ein von außen eindringendes elektrisches Kraftfeld E ?-- Es halbiert die Feldstärke
+Wie ist ein Elektronenvolt definiert?--Ein Elektronenvolt (1 eV) stellt die Energie dar, die ein Elektron besitzt, nachdem es mit einer Beschleunigungsspannung U = 1 V beschleunigt wurde
+Was ist der Energie-Impuls-Tensor?-- physikalische Größe, welche die Dichte und den Fluss von Energie und Masse in der Raumzeit beschreibt
+Welche Eichung führt zur Entkopplung der Maxwellgleichungen?-- Lorentz
+Was besagt der Hauptsatz von Helmholtz der Vektoranalysis?-- wenn das Vektorfeld für r gg unendlich hinreichend stark abfällt, dann jedes Vektorfeld durch seine Quellen und Wirbel dargestellt werden.
+Wofür werden Legendre-Polynome verwendet?-- unter anderem für Simulationen von Kugelsphären, so zum Beispiel zur Ermittlung des Taylor-Winkels im Taylor-Kegel, welcher beim Elektrospinnen der Geometrie zu Grunde liegt.
+Was beschreiben die Faradayschen Gesetze?-- den Zusammenhang zwischen elektrischer Ladung und Stoffumsatz bei elektrochemischen Reaktionen, z. B. bei der Elektrolyse. Sie sind daher Grundgesetze der Elektrochemie und der Elektrolyse.
+Wie groß ist die Feinstrukturkonstante?-- 1/137 , gibt die Stärke der elektromagnetischen Wechselwirkung an
+Was beschreibt das gyromagnetische Verhätnis?--  den Proportionalitätsfaktor zwischen dem Drehimpuls (oder Spin) eines Teilchens und dem dazugehörigen magnetischen Moment 
+Wie lautet die Definition von Henry?--Eine Spule hat eine Induktivität von 1 Henry, wenn bei gleichförmiger Stromänderung von 1 Ampere in 1 Sekunde eine Selbstinduktionsspannung von 1 Volt entsteht.
+Was sind Hohlraumresonatoren?--die Teile eines Beschleunigers, in denen die Teilchen mit Hilfe elektrischer Felder beschleunigt werden. Dazu wird in einem besonders geformten Hohlraum eine elektromagnetische Welle mit hoher Frequenz angeregt
+In welcher Höhe befindet sich die Ionosphäre?-- 60 bis 1000km. Hier dominieren, hervorgerufen durch die Strahlungsaktivität der Sonne, geladene Teilchen wie Elektronen und positive Ionen
+Was beschreibt das Induktionsgesetz?--unter welchen Bedingungen eine elektrische Spannung entlang einer elektrischen Leiterschleife hervorgerufen (induziert) wird. 
+Was ist Joulesche Wärme?--die bei Durchgang eines elektrischen Stromes durch leitendes Material erzeugte Wärme 
+Was ist ein Paraelektrikum?-- ein nichtleitendes Material, das keine parallel ausgerichteten permanenten elektrischen Dipolmomente aufweist.
+Was ist Plasmaoszillation?--eine periodische Oszillation der Ladungsdichte in einem Medium, zum Beispiel in einem Plasma oder einem Metall. 
+Was ist Polarisierbarkeit?--eine Eigenschaft von Molekülen und Atomen. Sie ist ein Maß für die Verschiebbarkeit von positiver relativ zu negativer Ladung im Molekül/Atom beim Anlegen eines äußeren elektrischen Feldes. 
+Eine konforme Abbildung ist...?--winkeltreu
+Was bedeutet kovariant?-- so nennt man ein Transformationsverhalten, bei dem sich die Basisvektoren und die darin dargestellten Vektoren (Größen) in gleicher Weise transformieren. Koordinaten im unteren Index
+Was bedeutet kontravariant?--so nennt man ein Transformationsverhalten, wenn sich die Basisvektoren und die darin dargestellten Vektoren (Größen) in unterschiedlicher Weise transformieren. koordinaten im oberen Index
+Was setzt die Kramer-Kronig Relation in Beziehung?-- Real- und Imaginärteil bestimmter meromorpher Funktionen in Form einer Integralgleichung 
+was heißt holomorph?-- Überall komplex differenzierbar
+was heißt meromorph?-- holomorph, aber auch die Polstellen
+Was besagt die Lenzsche Regel?--Der Induktionsstrom ist stets so gerichtet, dass der Induktionsstrom die Ursache seiner Entstehung zu hemmen sucht
+Was beschreiben die Lienard-Wiechert-Potentiale?--  die elektrischen und magnetischen Felder, die von einer bewegten elektrischen Punktladung erzeugt werden.
+Was ist Strahlungsrückwirkung?--ein Effekt in der Elektrodynamik. Sie entsteht, wenn sich ein elektrisch geladenes Objekt in einem elektromagnetischen Feld nicht mit konstanter Geschwindigkeit bewegt. Außer für sehr spezielle Feldkonfigurationen wie in einem Wien-Filter ist dies stets der Fall.
+Was beschreibt der Lorentz-Oszillator?-- ein an den Atomrumpf gebundenes Elektron, das durch ein elektrisches Feld zu harmonischen Oszillationen angeregt wird. Es ist eine Erweiterung des Drude-Modells.
+was ist der Maxwellsche Spannungstensor?-- ein symmetrischer Tensor zweiter Stufe, der in der klassischen Elektrodynamik verwendet wird, um die Wechselwirkung zwischen elektromagnetischen Kräften und mechanischem Impuls darzustellen.
+Was ist der Maxwellsche Verschiebungsstrom?-- Das ist der Teil des elektrischen Stromes, der durch die zeitliche Änderung des elektrischen Flusses gegeben ist. 
+was ist die Multipolentwicklung?--Verfahren zur Lösung der Poisson-Gleichung in drei Raumdimensionen, bei der die Lösungsfunktion als Laurent-Reihe entwickelt wird
+Was sind Phasenflächen?-- Flächen mit konstanter Phase
+Wie schnell bewegen sich Leitungselektronen ohne Einwirkung von außen?-- 10^6 m/s
+Was ist der Unterschied zwischen Laplace- und Poisson-gleichung?-- Laplade delta u =0; Poisson delta u = f
+Was beschreibt der Satz von Poynting?--die Energiebilanz in der Elektrodynamik. 
+Wie groß ist die Driftgeschwindigkeit von Elektronen?-- 10^-4 m/s
+In welchem Wellenlängenbereich befindet sich die Röntgenstrahlung? -- ca. 10^⁻9 bis 10^⁻11
+Was ist der Unterschied zwischen Resonanzfluoreszenz?--Im Gegensatz zur Fluoreszenz bei komplexeren Farbstoffmolekülen tritt bei RF keine Stokes-Verschiebung zwischen Anregungs- und Fluoreszenzphotonen auf. Dies liegt daran, dass Atome nicht durch Schwingung strahlungsfrei relaxieren.
+superponierbarkeit bedeutet...--- dass das Superpositionsprinzip angewendet werden kann.
+Was sind Strukturfunktionen?--Sie werden in der Kern- und Teilchenphysik zur Beschreibung von tief inelastischen Streuprozessen an Nukleonen und Atomkernen verwendet. Sie geben an, wie stark die Streuung ist, in Abhängigkeit von der dabei zwischen den Streupartnern übertragenen Energie und dem Impuls. 
+Was bezeichnet man als Schumann-Resonanz?--das Phänomen, dass elektromagnetische Wellen bestimmter Frequenzen entlang des Umfangs der Erde stehende Wellen bilden.
+Was sind Sferics?-- das impulshafte Auftreten elektromagnetischer Wellen natürlichen Ursprungs innerhalb der Erdatmosphäre
+Was versteht man unter spontaner Magnetisierung?-- die inhärente Magnetisierung, die in ferromagnetischen Substanzen ohne Vorhandensein eines äußeren Magnetfelds auftritt
+Was bezeichnet Thomson-Streuung?--die elastische Streuung von elektromagnetischen Wellen an geladenen Teilchen, die frei oder im Vergleich zur Energie der Welle schwach gebunden sind. Dieses Modell gilt auch für freie Elektronen im Metall, deren Resonanzfrequenz aufgrund fehlender Rückstellkräfte gegen Null geht.
+Was wird in Weber gemessen?-- Der magntetische Fluss (nicht die magnetische Flussdichte). Eine magnetische Flussdichte von ein Weber pro Quadratmeter ist ein Tesla
+Wie entsteht Röntgenstrahlung?-- durch starke Beschleunigung geladener Teilchen, durch hochenergetische Übergänge in den Elektronenhüllen von Atomen oder Molekülen. 

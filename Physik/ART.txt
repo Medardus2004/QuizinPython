@@ -1,0 +1,47 @@
+Wo könnte man am Nachthimmel den Großen Attraktor finden?-- Südlich Skorpion
+Wie Viele Galaxienhaufen beinhaltet der Virgio-Superhaufen?-- 100 bis 200
+Wie viele Lichtjahre ist die Lokale Gruppe groß?-- 5 bis 10 Mio. Lichtjahre
+How big is one megaparsec in lightyears?--ca. 5.5 Mio
+In welchem Sternbild befindet sich Boötes Void?-- Im Bärenhüter
+Wie ist die Reihenfolge zur Lösung der Feldgleichung der ART?-- Aufstellung Metrik, und mehr
+Wie lautet das Birckhoff-Theorem?--Das externe Gravitationsfeld einer sphärisch symmetrischen Massenverteilung ist gleich dem Feld einer punktförmigen Ansammlung der gesamten Masse im Mittelpunkt
+Was ist die Brans-Dicke-Theorie?--eine klassische Feldtheorie und eine der einfachsten Erweiterungen der ART
+Was ist der de-Sitter Effekt?-- auch geodätischer Effekt, Man beobachtet die Präzession eines im Gravitationsfeld frei fallenden Kreisels
+Was ist der Unterschied zwischen de-Sitter Effekt und Lense-Thirring Effekt?-- LTE wirkt ebenfalls auf die Rotationsachse eines Kreisels, hat aber seine Ursache in der Rotation der zentralen Masse.
+Was sind Bianchi-Identitäten?-- Eine Riemann-Tensor Gleichung
+Was beschreibt ein Riemann-Tensor?-- Die Krümmung von Räumen beliebiger Dimension, er ist ein Tensor 4. Stufe
+Was ist die Chandrasekhar-Grenze?-- Grenzmasse für einen weißen Zwerg, 1.457 Sonnenmassen
+Was sind Christophel-Symbole?--Hilfsgrößen zur Beschreibung der kovarianten Ableitung auf Mannigfaltigkeiten. Sie geben an, um wie viel sich Vektorkomponenten bei der Parallelverschiebung entlang einer Kurve ändern.
+Was ist das Einstein-deSitter Universum?-- Modell des Universums, es hat einen endlichen Horizont mit einer maximalen Entropie innerhalb des kausalen Bereichs eines beliebigen Beobachters, die durch die Oberfläche des Horizonts gegeben ist.
+Wie viele Galaxien gehören zur Lokalen Gruppe?-- etwa 30
+Wie viele Sterne befinden sich in der Milchstraße?-- etwa 200 Mia Sternen
+Was ist Fermi-Walker-Transport?--  Prozess, der dazu dient, ein Koordinatensystem oder einen Referenzrahmen so zu definieren, dass alle Krümmungen im Rahmen auf das Vorhandensein einer Massen-/Energiedichte und nicht auf eine willkürliche Drehung oder Rotation des Rahmens zurückzuführen sind.
+Was zeigt Eötvös-Experiment?--ob Körper aus unterschiedlichen Materialien in voneinander abweichende Richtungen fallen. Es konnte keine unterschiedliche Fallrichtung für verschiedene Objekte gemessen werden.
+Was sind WIMPs?--hypothetische Teilchen mit einer Masse zwischen einigen zehn und etwa tausend GeV/c² (1 GeV/c² ist etwas mehr als die Masse eines Neutrons oder Protons). WIMPs wurden postuliert, um das kosmologische Problem der dunklen Materie im Weltraum zu lösen.
+Was beschreibt der Lense-Thirring-Effekt?-- den Einfluss einer rotierenden Masse auf das lokale Inertialsystem. 
+Was ist Thomas-Präzession?-- rel. Effekt als Korrektur zur Spin-Bahn-Kopplung in der Atomphysik. Aufgrund der durch die Lorentztransformation beschriebenen Längenkontraktion in Bewegungsrichtung ist die Drehung des Raumvektors im bewegten System größer als die Drehung des Gyroskops im ruhenden System. 
+Was ist Sagittarius A*?--eine Quelle von Radiowellen im Zentrum der Milchstraße.
+Wie lautet das kosmologische Prinzip?-- Im Universum sind alle Positionen und Richtungen gleichwertig.
+Was ist die Robertson Walker Metrik?--eine exakte Lösung der einsteinschen Feldgleichungen und beschreibt eine homogene, isotrope (kosmologisches Prinzip) Expansion bzw. ein ebensolches Zusammenziehen des Universums. Sie wird als erste Näherung für das kosmologische Standard-Urknall-Modell des Universums verwendet.
+Was ist der Ricci-Tensor?--Ein geometrisches Objekt, das durch eine Wahl der Riemannschen Metrik auf einer Mannigfaltigkeit bestimmt wird.
+Was besagt der Gibbons-Hawking-Effekt?-- dass jeder Lösung der Einsteinschen Feldgleichungen, die über einen kausalen Horizont verfügt, eine Temperatur zugeordnet werden kann
+Was besagt das Keine-Haare-Theorem?-- Das schwarze Löcher allein durch ihre Masse, Ladung und ihren Drehimpuls charakterisiert sind
+Was ist PSR1913+16?-- Doppelsternsystem, das sich zum nachweis von Graviationsstrahlung eignet.
+Was ist eine Pseudosphäre?-- Flächen, die konstante negative Gaußkrümmung haben, z.B.: wie Hyperboloid oder Traktrikoid
+Was ist der Nordtvedt Effekt?-- rel. Bewegung zwischen Erde und Mond, die beobachtet werden würde, wenn schwere und träge Masse unterschiedlich wären
+Was beschreibt die Oppenheimer-Volkoff Gleichung?-- Die Druckverhältnisse in einem Stern
+Was ist in der Kosmologie mit Inflation gemeint?-- Die rasche Expansion des Kosmos unmittelbar nach dem Urknall
+Metriken für Schwarze Löscher: statisch und ungeladen?-- Schwarzschild
+Metriken für Schwarze Löscher: rotierend und ungeladen?-- Kerr
+Metriken für Schwarze Löscher: statisch und geladen?-- Reissner-Nordström-Metrik
+Metriken für Schwarze Löscher: rotierend und geladen?-- Kerr-Newman-Metrik
+Wie ist nach dem Machschen Prinzip ein IS definiert?-- Ein IS ist durch ein BS gegeben, von dem aus die Massenverteilung des Universums im Großen und im Mittel isotrop erscheint
+Was ist mit Kontraktion oder Tensorverjüngung gemeint?-- Eine Verallgemeinerung der Spur einer linearen Abbildung auf Tensoren, die mindestens einfach kovariant und einfach kontravariant sind. Ein Tensor n-ter Stufe wird zu einem Tensor der Stufe n-2
+Wie erhält man den Ricci-Tensor?-- Durch Kontraktion des riemannschen Krümmungstensors
+Was beschreibt die Hubble-Konstante?--Die gegenwärtige Rate der Expansion des Universums.
+Was beschreiben die Friedmann-Gleichungen?-- die zeitliche Entwicklung des Universums.
+Was zeigt das Hertzsprung-Russell-Diagramm?--  grob die Entwicklungsverteilung der Sterne. Wird dazu der Spektraltyp gegen die absolute Helligkeit aufgetragen, ergeben sich charakteristische linienartige Häufungen, OBAFGKMLT
+Was ist die kosmische Zensur?-- eine Vermutung der allgemeinen Relativitätstheorie, wonach die Gesetze des Universums die Bildung nackter Singularitäten verhindern. Noch nicht wiederlegt oder bewiesen
+Welche Achsen stehen in einem Hubble Diagramm?-- Geschwindigkeit als Funktion der Entfernung  
+Was ist das ΛCDM-Modell bzw. Lambda-CDM-Modell?--  ein kosmologisches Modell, das mit wenigen – in der Grundform sechs – Parametern die Entwicklung des Universums seit dem Urknall beschreibt
+Welche 6 Konstanten nutzt das ΛCDM-Modell?-- Hubble, Anteil bary. Materie an der Gesamtenergiedichte, Anteil bary. Materie und dunkle Materie an der Gesamtenergiedichte, optische Dicke, Krümmungsfluktuationsamplitude, spektraler Index der skalaren Komponente der ursprünglichen Schwankungen

@@ -1,0 +1,22 @@
+Was bedeutet raumartig?-- es gibt ein Bezugssystem, in dem beide Ereignisse gleichzeitig stattfinden. Keines der Ereignisse kann das andere Ereignis verursacht haben.
+Was ist der Unterschied zwischen aktiver und passiver Transformation?-- aktiv: der Punkt wird transformiert, passiv: das Koordiniatensystem wird transformiert
+Was ist die Bernoulli-Gleichung?--die Grundgleichung für die eindimensionale Behandlung von Strömungen in Fluiden
+Was sind die Eulerschen Bewegungsgleichungen?--Bewegungsgleichungen für die Rotation eines starren Körpers.
+Was ist der differentielle Wirkungsquerschnitt?--Das Verhältnis der Intensität der in eine gegebene Richtung gestreuten Strahlungsenergie zur einfallenden Bestrahlungsstärke und hat somit die Dimension einer Fläche pro Raumwinkeleinheit
+Was ist Eigenzeit?--die in einem mit dem mitbewegten Bezugssystem ablaufende Zeit. 
+Was ist der Unterschied zwischen einem Inertialsystem und einem Bezugssystem?-- Ein IS ist ein Bezugssystem, in dem ein kräftefreier Körper in Ruhe verharrt oder sich geradlinig-gleichförmig, also unbeschleunigt bewegt.
+Ist ein rotierendes Bezugssystem ein Inertialsystem?-- Nein, es treten Zentripedal und Corioliskräfte auf.
+Was ist die Hauptachsentransformation?--Verfahren, mit dem man die Gleichungen von Quadriken durch eine geeignete Koordinatentransformation auf die jeweilige Normalform bringt und damit ihren Typ und ihre geometrischen Eigenschaften bestimmen kann.
+Wann spricht man von anholonomen Zwangsbedingungen?-- Diese Zwangsbedingungen können nicht als Gleichungen zwischen den Koordinaten formuliert werden. Die generalisierten Koordinaten, die in solchen anholonomen Zwangsbedingungen erscheinen, sind i. A. nicht unabhängig voneinander variierbar.
+Was beschreibt die Poincaré-Gruppe, inhomogene Lorentz-Gruppe? --alle im Rahmen der relativistischen Mechanik möglichen Transformationen.
+Was macht das KAM-Theorem?--Aussagen über das Verhalten dynamischer Systeme unter kleinen Störungen?
+Was sind integrable Systeme?-- Konservative Systeme, deren Hamiltonfunktion durch eine kanonische Transformation auf Wirkungs- und Winkelvariablen transformiert werden kann. 
+Was ist ein Funktional?--Eine Funktion, deren Definitionsmenge als Teilmenge in einem Vektorraum enthalten ist, während ihre Zielmenge in dem zugehörigen Skalarkörper liegt, zB ein bestimmtes Integral
+Was ist Nutation?--Die Bewegung der Figurenachse eines kräftefreien Kreisels, wenn der Drehimpuls nicht parallel zu einer der Hauptachsen des Kreisels ausgerichtet ist.
+Was besagt der Satz von Liouville?--Dass das von benachbarten Trajektorien im Phasenraum eingeschlossene (mehrdimensionale) Volumen als Funktion der Zeit konstant ist. 
+Was ist der Unterschied zwischen rheonomen und skleronormen Zwangsbedinungen?-- zeitabhängig = rheonorm, zeitunabhängig = skleronorm
+Was sind die Navier-Stokes Gleichungen?-- ein mathematisches Modell der Strömung von linear-viskosen newtonschen Flüssigkeiten und Gasen (Fluiden). 
+Was ist ein Pseudo-Tensor?--eine Größe, die sich wie ein Tensor unter einer orientierungserhaltenden Koordinatentransformation transformiert, aber zusätzlich unter einer orientierungsumkehrenden Koordinatentransformation das Vorzeichen ändert
+Was ist der Wirkungsquerschnitt?--ein Maß für die Wahrscheinlichkeit einer Wechselwirkung zwischen einer einfallenden Wellenstrahlung oder einem einfallenden Teilchen („Projektil“) und einem anderen Teilchen (Streukörper oder Target).
+Was beschreibt das Kuramoto Modell?--Das Verhalten einer großen Menge gekoppelter Oszillatoren
+

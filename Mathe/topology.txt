@@ -1,0 +1,1 @@
+Was ist eine Kleinsche Flasche?-- Beispiel einer nicht-orientierbaren Fläche.. innen und außen können nicht unterschieden werden. Es kann kein steiger Normalenvektor definiert werden.

@@ -1,0 +1,3 @@
+How do I create a Tor Website?-- go to /etc/tor/torrc, comment in HiddenServiceDir HiddenServicePort , restart, cat /var/lib/tor/hidden_service/hostname
+Wofür ist ICANN verantwortlich?-- für die Verwaltung und Koordinierung des Domain Name System ( DNS ) verantwortlich, um sicherzustellen, dass jede Adresse eindeutig ist und alle Benutzer des Internets alle gültigen Adressen finden können
+

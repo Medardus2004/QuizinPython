@@ -1,0 +1,39 @@
+Was sind die 5 Axiome der QM?-- Zustand durch W-Fkt, Observable durch hermitischen Operator, Erwartungswert durch Mittelwertbildung, Dynamik des Systems durch S. bzw. D-Gleichung, wenn Messung Eigenwert des Operators A, so ist die Wellenfunktion Eigenzustand φn(x, t) des Operators übergegangen
+Was ist die Bohrsche Quantisierungsbedingung?-- Von allen in der klassischen Theorie zugelassenen Kreisbahnen dürfen die Elektronen nur auf denjenigen Bahnen kreisen, in denen der Drehimpuls eines Elektrons ein ganzzahliges Vielfaches von h2π ist, wobei h die Plancksche Konstante ist.
+was sind Auf- und Absteigeoperatoren?-- Für diesen Lösungsweg definiert man zwei Operatoren , die einem Oszillator jeweils ein Energiequant hw entziehen oder hinzufügen.
+Was ist ein adjungierter Operator?--ein beschränkter linearer Operator in einem Hilbert-Raum, der durch die Bedingung xLy = L*x, y für alle x, y in H definiert ist
+Wie entsteht eine adjungierte Matrix?-- durch Vertauschen von Zeilen und Spalten und anschließende komplexe Konjugation entstandene (n × n)-Matrix.
+Was sind L^p-Räume?-- auch Lebesgue-Räume, sind in der Mathematik spezielle Räume, die aus allen p-fach integrierbaren Funktionen bestehen. 
+Wann ist ein operator hermitesch?-- Wenn der Operator gleich seinem adjungierten Operator ist
+Was ist eine  Auswahlregel?-- Regel, die darüber Auskunft gibt, ob ein Übergang zwischen zwei Zuständen eines gegebenen Systems durch Emission oder Absorption von elektromagnetischer Strahlung möglich ist. 
+Was besagt Fermis Goldene Regel?--Die Gleichung ergibt die theoretische Voraussage für die Übergangsrate (Übergangswahrscheinlichkeit pro Zeit), mit der ein Anfangszustand unter dem Einfluss einer Störung in einen anderen Zustand übergeht.
+Nenne die bestimmten Folgen von Spektrallinien im sichtbaren em-Spektrum des H-Atoms?--Lyman-, balmer Paschen-, Brackett-, Pfund- und die Humphreys-Serie.
+Was wird als Coulomb-Potential bezeichnet?--das Potential , gegen das ein positiv geladenes Teilchen anlaufen muss, um in den ebenfalls positiv geladenen Atomkern zu gelangen. 
+Welchen Spin haben Bosonen?-- ganzzahlig
+Was bezeichnet der Ramsauer-Effekt?-- bezeichnet die extreme Durchlässigkeit von Gasen gegenüber langsamen Elektronen
+Was ist die Chandrasekhar-Grenz?-- theoretische obere Grenze für die Masse eines Weißen Zwergs
+Wo finden Clebsch-Gordan-Koeffizienten ihre Anwendung?--in der Kopplung quantenmechanischer Drehimpulse. Sie werden zur Berechnung der Spin-Bahn-Kopplung sowie im Isospin-Formalismus verwendet.
+Was ist der Darwin-Term? --ein relativistischer Korrekturterm im Hamiltonoperator, um die Feinstruktur im Wasserstoffspektrum theoretisch zu erklären. Er ergibt sich aus der Dirac-Theorie.
+Woher kommt der Darwin-Term?-- daher, dasss die elektrostatische Wechselwirkung des Elektrons mit dem elektrischen Feld des Kerns aufgrund der Zitterbewegung nicht mehr lokal ist, sondern auch von einem kleinen Bereich des elektrischen Feldes um das Elektron herum abhängt
+Wo findet das Legendre-Polynom seine Anwendung?--Unter anderem für Simulationen von Kugelsphären verwendet, so zum Beispiel zur Ermittlung des Taylor-Winkels im Taylor-Kegel, welcher beim Elektrospinnen der Geometrie zu Grunde liegt.
+Was ist der Dichteoperator?--ein linearer Operator, der den Zustand eines Ensembles von physikalischen Systemen, in der Quantenmechanik auch den Zustand nur eines einzigen Systems beschreibt. Diese Beschreibung ist in physikalischer Hinsicht vollständig. 
+Wie heißen die beiden Kernspin-Isomere des Wasserstoff-Moleküls?-- Ortho (triplet)- und Parawasserstoff (singulett)
+welches Verhalten erhält man, wenn man das (falsche) Rayleigh Jeans-Gesetz anwendet?-- es kommt zur Ultraviolett-Katastrophe 
+Was ist Diagonalisierung?-- Umwandlung einer quadratischen Matrix in eine Diagonalmatrix
+Was ist die Quantenelektrodynamik (QED)?--  eine Quantenfeldtheorie. Sie beschreibt die Wechselwirkung zwischen Licht und Materie
+Was zeigt der Einstein-deHaas Effekt?-- den Zusammenhang zwischen dem Ferromagnetismus und dem Drehimpuls von Elektronen.
+Wo haben die Laguerreschen Polynome ihre Anwendung?-- bei der Lösung der Schrödinger-Gleichung für das Wasserstoffatom bzw. im allgemeinen Fall für ein Coulomb-Potential.
+Welchen Zusammenhang stellt das Ehrenfest-Theorem her?-- zwischen der klassischen Mechanik und der Quantenmechanik.
+Wofür wird die WKB-Näherung verwendet?-- Quantenmechanische Beschreibung für die Transmission durch eine Potentialbarriere
+Was ist die Geiger-Nuttall-Regel?-- eine empirisch ermittelte Regel der Kernphysik zur Abschätzung der Halbwertszeit von Radionukliden, die dem Alpha-Zerfall unterliegen
+Was ist die die Klein-Gordon-Gleichung? -- die relativistische Feldgleichung, welche die Kinematik freier skalarer Felder bzw. Teilchen (d. h. Spin 0) bestimmt
+Was sind Baryonen?-- subatomare Teilchen mit relativ großer Masse. Zu ihnen gehören das Proton und das Neutron
+Was ist  Delbrück-Streuung (Schattenstreuung)?-- die Streuung eines Photons am elektromagnetischen Feld eines Atomkerns 
+Was beschreibt das Lennard-Jones-Potential ?-- in der physikalischen Chemie und in der Atom- und Molekülphysik die Bindungsenergie.
+Wofür ist das Woods-Saxon-Potential ein Ansatz? -- für die potentielle Energie von Protonen und Neutronen in Abhängigkeit von ihrem Abstand zum Mittelpunkt des Atomkerns. 
+Was ist der Zeemann-Effekt?-- in der Atomphysik die Aufspaltung von Spektrallinien durch ein Magnetfeld.
+Was ist der Virialsatz?--eine Beziehung zwischen den zeitlichen arithmetischen Mittelwerten der kinetischen Energie und der potentiellen Energie  eines abgeschlossenen physikalischen Systems.
+Was ist ein unitärer Operator?-- ein bijektiver linearer Operator zwischen zwei Hilberträumen, der das Skalarprodukt erhält. Es gilt: komplex konjugiert = invers
+Was ist die Slater-Determinante?-- eine Methode in der Quantenmechanik zur Konstruktion einer Wellenfunktion für Systeme, die aus Fermionen bestehen.
+Was wurde im Stern-Gerlach Versuch beobachtet?--Richtungsquantelung von Drehimpulsen  
+Was ist der Stark-Effekt?--die Verschiebung und Aufspaltung von atomaren bzw. molekularen Spektrallinien im statischen elektrischen Feld. 

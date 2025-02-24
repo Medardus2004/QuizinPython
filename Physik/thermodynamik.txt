@@ -1,0 +1,49 @@
+Was besagt der 1. Hauptsatz der Thermodynamik?--die gesamte Energie in einem abgeschlossenen System ist konstant.
+Was besagt der 2. Hauptsatz der Thermodynamik?--Es gibt keine Zustandsänderung, deren einziges Ergebnis die Übertragung von Wärme von einem Körper niederer auf einen Körper höherer Temperatur ist. Kein PPM
+Was soll ein Perpetuum Mobile 2. Art leisten?--Die Maschine soll Arbeit aus der Umgebungswärme gewinnen, ohne dass ein (ständig aufrechterhaltenes) Temperaturgefälle notwendig wäre
+was besagt der 3. Hauptsatz der Thermodynamik?--Auch Nerstsches Theorem. Es ist nicht möglich, ein System bis zum absoluten Nullpunkt abzukühlen.
+Was besagt das Stefan-Boltzmann-Gesetz?-- die thermisch abgestrahlte Leistung eines idealen Schwarzen Körpers in Abhängigkeit von seiner Temperatur an.
+Was ist der Fermiimpuls?--Im Falle von T=0 ist der Fermiimpuls der maximale Impuls des energiereichsten Elektrons in einem Festkörper.
+Was gibt die Fermi-Energie an?--die höchste Energie an, die ein Teilchen in einem Vielteilchensystem gleichartiger Fermionen (einem Fermi-Gas) haben kann, wenn das System als Ganzes in seinem Grundzustand ist
+Was ist eine adiabatische Zustandsänderung?-- Übergang vom Zustand eines Systems ohne Wärmeaustausch
+Was beschreibt die Binomialverteilung?-- Erfolge in einer Serie von gleichartigen und unabhängigen Versuchen, die jeweils genau zwei mögliche Ergebnisse haben, auch Bernoulli-Prozesse genannt. zB Urnenmodell mit Zurücklegen
+Was besagt das Boyle-Mariotte-Gesetz?-- dass der Druck von idealen Gasen bei gleichbleibender Temperatur T (isotherm) und gleichzeitig gleichbleibender Stoffmenge umgekehrt proportional zum Volumen V ist.
+Was beschreibt das curiesche Gesetz?-- die Abhängigkeit der magnetischen Suszeptibilität einer Substanz von der absoluten Temperatur, sofern idealer Spin-Paramagnetismus vorliegt.
+Was beschreibt das Curie-Weiss-Gseetz?-- die magnetischen Eigenschaften von ferromagnetischen Substanzen in deren paramagnetischer Phase, in denen magnetische Kooperativ-Effekte zur Abweichung vom idealen Curie-Verhalten führen
+Was ist die Debye-Temperatur?--ein Maß für die Größe der vorkommenden Phononenfrequenzen in einem Material. Sie bezeichnet die Temperatur, bei der alle möglichen Zustände gerade besetzt sind.
+was lässt sich über die Clausius-Clapeyron-Gleichung erechnen?--  der Verlauf der Siedepunktskurve, d. h. der Phasengrenzlinie eines Phasendiagramms zwischen der flüssigen und der gasförmigen Phase eines Stoffes
+Wofür ist die BOltzmann-Gleichung?--für die statistische Verteilung von Teilchen in einem Medium
+Wie viele Teilchen enthält ein mol?-- Avogadrokonstante = 6,022 x 10^23
+Was beschreibt das Debye-Modell?--eine Methode, mit der sich der Beitrag der quantisierten Schwingungen in Kristallgittern, der Phononen, zur Wärmekapazität eines kristallinen Festkörpers berechnen lässt
+Was ist die Dieterici Gleichung?-- Zustandsgleichung für reale Gase
+Was beschreibt das van-t hoffsche Gesetz?--den Zusammenhang zwischen osmotischem Druck, osmotischer Konzentration und Temperatur für verdünnte Lösungen
+was ist eine Kalorie?-- Energiemenge an, die man zum Erwärmen von 1 g Wasser um 1°C benötigt
+Was ist Enthalpie?--Bezeichnung für die abgegebene bzw. aufgenommene Wärmemenge einer Reaktion.
+was sind Isentropie?--so bezeichnet man Linien gleicher Entropie.
+Was ist der Joule-Thomson-Effekt, auch Inversionskurve?--Phänomen, dass reale Gase bei einer Expansion ohne äußere Arbeitsleistung ihre Temperatur verändern
+Was erlaubt das H-Theorem?-- in der kinetischen Gastheorie die Maxwell-Boltzmann-Verteilung zu finden und die Entropie zu definieren
+Welchen Zusammenhang beschreibt die Gibbs-Duhem Gleichung?--den zwischen den Änderungen der chemischen Potentiale der Komponenten
+Was beschreibt die Renommierungsgruppe?--die Abhängigkeit bestimmter physikalischer Größen von der Längenskala
+Was beschreibt das Gesetz von Hagen-Poiseuille?-- Volumenstrom in einem kreisrunden Rohr
+Was beshreibt das großkanonische Ensemble?--eine Verallgemeinerung des kanonischen Ensembles, bei dem ein System neben Energiefluktuationen auch Teilchenfluktuationen unterliegt
+Was beschreibt die Gunsburg Landau Theorie phänomenologisch?-- Supraleitung
+Was trennt die Debye-Grenzfrequenz oder -Temperatur?-- die kollektive thermische Gitterschwingung von der unabhängigen thermischen Gitterschwingung 
+Was wird als kritische Opaleszenz bezeichnet?-- eine optische Erscheinung, die auftritt, wenn ein Stoff (Flüssigkeit oder Gas) an seinem kritischen Punkt angelangt ist, an dem die Unterscheidung zwischen den Phasen nicht mehr möglich ist
+Wie verhalten sich optische Phononen?-- bei optischen Phononen bewegen sich die Atome innerhalb der Basis gegeneinander
+Was ist die latente Wärme?-- die bei einem Phasenübergang erster Ordnung aufgenommene oder abgegebene Enthalpie in der Einheit Joule. 
+Was beschreibt das Einstein-Modell?--eine Methode, um den Beitrag der Gitterschwingungen (Phononen) zur Wärmekapazität eines kristallinen Festkörpers zu berechnen
+Wie ist das kanonische Ensemble definiert?--  als die Menge aller gleichartigen Systeme mit gleicher Teilchenzahl in einem gleich großen Volumen die mit einem Reservoir Energie austauschen können und mit diesem zusammen ein Gesamtsystem im Zustand des thermischen Gleichgewichts mit einer Temperatur bilden. 
+Was ist der Unterschied zwischen intensiven und extensiven Größen?-- intensiv: nicht von der Größe des Systems abhängig, z.B. Massendichte, spezifische Wärmekapazität; extensive Größen: Volumen, Masse, Wärmekapazität
+Was besagt das nur näherungsweise, für niedrige Temperaturen geltende Dulong-Petit-Gesetz?-- die molare Wärmekapazität eines aus einzelnen Atomen zusammengesetzten Festkörpers ist 3R (R= Gaskonstante)
+Was passiert unter dem Lambdapunkt?-- Suprflüssigkeit
+Wie lässt sich die Legendre-Transformation geometrisch veranschaulichen?-- Die Kurve kann, statt die Punktmenge anzugeben, aus der sie besteht, auch durch die Menge aller Tangenten charakterisiert werden, die sie einhüllen.
+Wann spricht man von spontaner Symmetriebrechung?--wenn der Grundzustand (der Zustand niedrigster Energie) eines physikalischen Systems weniger Symmetrien aufweist als die zugrunde liegenden Bewegungsgleichungen.
+Nenne ein Beispiel für einen Phasenübergang zweiter Ordnung?-- Para- zu Ferromagnetismus, Supraleitung, stetiger Übergang des Ordnungsparameters
+Was ist ein Magnon?--kollektiver Anregungszustand eines magnetischen Systems mit Eigenschaften eines bosonischen Quasiteilchens
+Was besagt das Wiensche Verschiebungsgesetz?--dass die Wellenlänge, bei der ein Schwarzer Körper der absoluten Temperatur T die intensivste Strahlung abgibt, umgekehrt proportional zur Temperatur ist
+Ist die Zeta-Funktion holomorph und komplex?-- ja
+Was sind Erweiterungen der allgemeinen Gasgleichung durch eine Reihenentwicklung?-- Virialgleichung
+Was stellt das quantenmechanische Analogon zur Liouville-Gleichung der klassischen statistischen Mechanik dar?-- Von Neumann Gleichung, sie beschreibt die zeitliche Entwicklungs des Dichteoperators im Schrödingerbild
+Worum geht es in dem Versuch von Gay-Lusasc?-- freie Expansion eines Gases
+Wozu dient die mikrokanonische Zusandssumme?--  zur Beschreibung eines abgeschlossenen Systems mit konstanter innerer Energie, Volumen  und Teilchenzahl ohne Austausch mit der Umgebung im thermodynamischen Gleichgewicht.
+

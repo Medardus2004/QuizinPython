@@ -1,8 +1,0 @@
-Was beschreibt die Telegraphengleichung? --Der metallische Draht einer Telegraphenleitung dient im Wesentlichen als Führung der Wellen.
-Was beschreibt die Larmorferquenz? --In der Quantenmechanik die Frequenz der Präzessionsbewegung eines Elementarteilchens in einem externen Magnetfeld.
-Was ist der Skin-Effekt? --Stromverdrängungs-Effekt in von höherfrequentem Wechselstrom durchflossenen elektrischen Leitern, durch den die Stromdichte im Inneren eines Leiters niedriger ist als in äußeren Bereichen. 
-Was beschreibt die Aberration in der Astronomie? --Scheinbare Ortsveränderung von Gestirnen durch die Endlichkeit der Lichtgeschwindigkeit
-Wann liegt anomale Dispersion vor? --Wenn der Brechungsindex mit steigender Frequenz fällt.
-Was besagt das Amperesche Gesetz? --Dass elektrische Ströme magnetische Wirbelfelder hervorrufen, deren Stärke im Wesentlichen durch die Stromstärke gegeben ist.
-Was besagt das Huygensche Prinzip? --Von jedem Punkt der Blendenöffnung geht eine Kugelwelle aus.
-Was ist der Unterschied zwischen Beugung und Streuung? --Eine klare Definition ist in der Literatur selten. Man könnte annehmen, dass sich Beugung auf Wellen an scharfen Kanten zweidimensionaler (2D) Objekte bezieht, während sich Streuung auf dreidimensionale (3D) Objekte bezieht.

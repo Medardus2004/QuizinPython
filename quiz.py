@@ -10,8 +10,13 @@ def read_data():
     return lines
 
 def next_question():
-    global counter 
-    counter = random.randint(0, len(task)-1)
+    global counter
+    c1.pack()
+
+    if howtocount.get() == 1:
+        counter = random.randint(0, len(task)-1)
+    else :
+        counter += 1
     Q = task[counter].split("--")
     question.delete('1.0', END)
     answer.delete('1.0', END)  
@@ -28,15 +33,21 @@ if __name__ == "__main__":
     root.title("Physik-Quiz:")
     root.geometry("800x320")
 
-    Font_tuple = ("Helvetica", 14, "bold") 
+    Font_tuple = ("Arial", 14, "bold") 
 
-    counter = 0
+    counter = -1
+    howtocount = tk.IntVar()
     task = read_data()
 
     question = Text(root, height = 5, width = 52)
     question.configure(font = Font_tuple)
     answer = Text(root, height = 5, width = 52)
     answer.configure(font = Font_tuple) 
+    
+    c1 = tk.Checkbutton(root, text='random',variable=howtocount, onvalue=1, offvalue=0)
+    c1.pack()
+    
+
 
     question_button = tk.Button(
         root,
