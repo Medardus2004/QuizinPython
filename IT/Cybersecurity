@@ -1,2 +1,14 @@
 Was ist 6LoWPAN?-- ein Kommunikationsprotokoll zur Funkdatenübertragung. Der Standard umfasst dabei auch Header-Kompressionsverfahren, die es effizienter machen, IPv6-Pakete über IEEE-802.15.4-basierende Netzwerke zu übermitteln.
-
+Was ist Samba?--ein freies Programmpaket, das es ermöglicht, Microsoft-Windows-Funktionen wie die Datei- und Druckdienste unter anderen Betriebssystemen zu nutzen und die Rolle eines Domain Controllers anzunehmen. Es implementiert hierfür unter anderem das SMB/CIFS-Protokoll.
+Was ist ACL?-- eine Liste von Regeln, die festlegt, welchen Benutzern oder Systemen der Zugriff auf ein bestimmtes Objekt oder eine Systemressource gewährt oder verweigert wird.
+Was ist ein Access Point?--ein Gerät, das Daten senden und empfangen kann. Über eine Ethernet-Kabelverbindung zum Router erhält der Access Point ein Internet-Signal, das er in ein separates WLAN-Netz umwandelt
+Was ist ein audit?--eine geplante und eigenständige Prüfung, Kontrolle oder Evaluierung von Informationen, Prozessen, Systemen, Kontrollen oder Organisationen.
+Was does DSInternals?--exposes several internal features of Active Directory and Azure Active Directory.
+what does the Add-MpPreferences-Cmdlet?--modifies settings for Windows Defender. Use this cmdlet to add exclusions for file name extensions, paths, and processes, and to add default actions for high, moderate, and low threats.
+Was ist Address Space Layout Randomization?--es werden Adressbereiche den Programmen auf zufälliger Basis zugewiesen, wodurch die Zuweisung der Adressbereiche eines Programms praktisch nicht mehr vorhersagbar ist. Dies soll Angriffe durch Pufferüberlauf erschweren. 
+Was ist Heap-Spraying?-- eine Angriffstechnik, die die Erfolgswahrscheinlichkeit des Angriffs trotz der Nutzung von ASLR erhöhen kann.
+What is Adaptive Frequency Hopping?-- a method of avoiding fixed frequency interferers, and can be used with Bluetooth voice.
+What is airodump-ng used?--for packet capture, capturing raw 802.11 frames.
+Was ist Android?--ein Betriebssystem als auch eine Softwareplattform für mobile Geräte wie Smartphones, Tabletcomputer, Fernseher, Mediaplayer, Netbooks und Autos. Basis ist ein Linux-Kernel.
+Was ist OpenVAS?--Schwachstellenscanner für Linux-Systeme, mit dem Admins über eine Weboberfläche nach Schwachstellen auf anderen Netzwerkgeräten suchen können
+what is Apple Blee?--scripts that are experimental PoCs that show what an attacker get from Apple devices if they sniff Bluetooth traffic
