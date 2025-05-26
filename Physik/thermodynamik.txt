@@ -1,3 +1,48 @@
+Gibt es eine irreversible Maschine, die einen größeren Wirkungsgrad hätte als die reversible Carnot-Maschine?-- nein
+Wie lautet die Definition für freie Energie?--Unter isothermen und isochoren Bedingungen nimmt die freie Energie (das Helmholtz-Potential) eines Systems im Gleichgewicht einMinimum an. F = U − TS
+Wie lautet die Definition für Enthalpie?-- Unter isotherm-isobaren Bedingungen ist das Gleichgewicht gegeben durch das Minimum der freien Enthalpie (des Gibbs-Potentials) G = U + pV − TS .
+Wo liegt das Gleichgewicht unter adiabatisch-isobaren Bedingen?--im Minimum der Enthalpie H = U + pV ,unter adiabatisch-isochoren Bedingungen im Minimum der Energie U.
+Was beschreibt die van-Hoff-Gleichung?--den Zusammenhang zwischen der Lage des Gleichgewichts einer chemischen Reaktion und der Temperatur (bei konstantem Druck)
+Was ist ein Perpetuum mobile 2. Art?-- Eine Maschine, die bei vorgegebenen Temperaturen der Wärmereservoirs einen Wirkungsgrad größer dem Carnot-Wirkungsgrad hätte
+Was bezeichnet der Joule-Thomson-Effekt?--  die Temperaturänderung eines Gases bei einer isenthalpen Druckminderung
+was bezeichnet Exergie?--  den Teil der Gesamtenergie eines Systems, der Arbeit verrichten kann, wenn dieses in das thermodynamische Gleichgewicht mit seiner Umgebung gebracht wird. 
+Wer fand die Vorstellung eines Wärmestoffes unzureichend?-- Benjamin Thompson (1753–1814), später Graf Rumford
+warum hat der Dieselmotor einen besseren Wirkungsgrad?-- Je höher die Kompression, desto besser wird der Treibstoff ausgenutzt. Der Dieselmotor komprimiert so stark, dass sich das Gemisch bei T 3 von selbst entzündet.
+Was ist die allgemeinste und vollständigste Definition der Temperatur?--Die Temperatur eines idealen Gases ist nur ein anderes Maß für die mittlere kinetische Energie der Moleküle.
+Wie viel Wärmeenergie, mittlere Molekülgeschwindigkeit steckt in einem kg Luft bei Zimmertemperatur?--2,1 · 10 5 J Wärmeenergie, 510 m/s
+Mit was wird das Spaceshuttle betrieben?-- Knallgas
+Was bedeutet isenthalp?-- Die Enthalpie ändert sich nicht
+Was ist ein Hygrometer?-- ein Messinstrument zur Bestimmung der relativen Luftfeuchtigkeit. 
+Zusammenfassung der Transportphänomene-- Wärmeleitung, Diffusion und Viskosität
+Wie kommt es bei der Viskosität zum Temperaturtransport?-- Impulsstrom = Schubspannung
+Was beschreibt die Clausius-Clapeyron-Gleichung?-- Den Zusammenhang zwischen Verdampfungsenergie und Steigung der Dampfdruckkurve beschreibt
+Was ist der Dampfdruck?-- Druck, den ein mit einem Stoff (fest, flüssig) im Gleichgewicht befindlicher Dampf in einem geschlossenen System auf die ihn umschließenden Wände ausübt
+Was ist Absolute Feuchte?-- So nennen wir die Konzentration des Wasserdampfes in g m −3 . 
+Was ist die Sättigungsfeuchte?-- entspricht dem Sättigungsdruck.
+Was ist dDie relative Feuchte?-- ist absolute Feuchte/Sättigungsfeuchte.
+Wo liegt der Tripelpunkt bei Wasser?-- bei 6,1 mbar und 0,0075 C
+Was gibt die Phasenregel von Gibbs an?-- wie viele Freiheitsgrade ein im thermodynamischen Gleichgewicht befindliches System besitzt f = Anzahl_Substanzen + 2 − Phasen
+Hängt die Wärmeleitfähigkeit eines Gases vom Druck ab?-- Nein
+Was beobachtet man beim Versuch von Wiener?-- Die steile Dichtestufe flacht sich immer mehr ab. Es liegt Diffusion vor
+Was ist eine Benard-Zelle?-- Konvektionszelle in einem flachen von unten geheizten Topf, es liegt Rayleigh-Benard Konvektion vor
+Was ist der Unterschied zwischen der spezifischen Wärmekapazität bei konstantem Druck oder bei konstantem Volumen?-- In c_p steckt noch die Arbeit, die das Gas bei seiner Wärmeaus-dehnung leisten muss. Bei Festkörpern und Flüssigkeiten macht dies nichts aus, weil die Ausdehnung äußerst gering ist.
+Wie lautet das Äquipartitionstheorem?-- auch Gleichvertelungssatz: Auf jeden Freiheitsgrad entfällt im thermischen Gleichgewicht diegleiche mittlere Energie, und zwar für jedes Molekül E  = 0.5 kT
+Was ist die Definition von einer Kalorie?--c = 4185 J kg −1 K −1 .Die Energie 4,185 J, die man braucht, um 1 g Wasser um 1 K zu erwärmen
+Wann ist ein Gasthermometer am Genauesten?-- Wenn es mit Wasserstoff oder Helium gefüllt ist
+Was wird Adiabaten-Exponent genannt?-- Verhältnis aus spezifischer Wärmekapazität bei konstantem Druck durch konstantes Volumen
+Womit kann die spezifische Wärmekapazität c bestimmt werden?-- mit dem Mischungskalorimeter
+Wie lautet die Grundgleichung der kinetischen Gastheorie von Daniel Bernoulli?-- Druck prop zu mittlerem Geschwindigkeitsquadrat der Moleküle: p = 0.33 nmv 2
+Was gibt die Zustandsgleichung eines Systems an?--wie seine messbaren Eigenschaften voneinander abhängen
+Gesetz von Boyle-Mariotte?-- Bei konstanter Temperatur ist der Druck umgekehrt proportional zum Volumen
+Wie kann man entscheiden, ob für Wärmeaustausch genug Zeit ist?-- Anhand der thermischen Expansionszeit
+Gesetz von Gay-Lussac?-- Bei konstantem Volumen steigt der Druck wie die absolute Temperatur
+Was bedeutet adiabatisch?-- Kein Wärmeaustausch
+Was ist der Absorptionsquerschnitt?--ist die Summe aller Querschnitte der Moleküle in der Volumeneinheit.
+Was erzeugt das Nyquist-Rauschen?-- Brownsche Bewegung der Elektronen in einem Widerstand 
+Wann liegt Knudsen-Strömung vor?-- beim Übergang von der viskosen Strömung zur molekularen Strömung 
+Gesetz von Charles (oft auch nach Gay-Lussac benannt)?-- Bei konstantem Druck steigt das Volumen wie die absolute Temperatur
+Verteilungssatzes von Boltzmann?-- Wenn ein System eine Reihe von Zuständen mit den Energien E 1 , E 2 , . . . annehmen kann, dann ist die Wahrscheinlichkeit, dass sich das System im Zustand i befindet P i = g i e −E i /(kT ) .
+was drückt die Maxwellverteilung aus?-- Geschwindigkeits- bzw. Energieverteilung verteilung eines Systems 
 Was besagt der 1. Hauptsatz der Thermodynamik?--die gesamte Energie in einem abgeschlossenen System ist konstant.
 Was besagt der 2. Hauptsatz der Thermodynamik?--Es gibt keine Zustandsänderung, deren einziges Ergebnis die Übertragung von Wärme von einem Körper niederer auf einen Körper höherer Temperatur ist. Kein PPM
 Was soll ein Perpetuum Mobile 2. Art leisten?--Die Maschine soll Arbeit aus der Umgebungswärme gewinnen, ohne dass ein (ständig aufrechterhaltenes) Temperaturgefälle notwendig wäre
@@ -24,11 +69,13 @@ Was ist der Joule-Thomson-Effekt, auch Inversionskurve?--Phänomen, dass reale G
 Was erlaubt das H-Theorem?-- in der kinetischen Gastheorie die Maxwell-Boltzmann-Verteilung zu finden und die Entropie zu definieren
 Welchen Zusammenhang beschreibt die Gibbs-Duhem Gleichung?--den zwischen den Änderungen der chemischen Potentiale der Komponenten
 Was beschreibt die Renommierungsgruppe?--die Abhängigkeit bestimmter physikalischer Größen von der Längenskala
+Welche Vakuumarten gibt es?-- Grob- Fein-, Hoch-, Ultrahochvakuum (Schritte in 10-3)
 Was beschreibt das Gesetz von Hagen-Poiseuille?-- Volumenstrom in einem kreisrunden Rohr
 Was beshreibt das großkanonische Ensemble?--eine Verallgemeinerung des kanonischen Ensembles, bei dem ein System neben Energiefluktuationen auch Teilchenfluktuationen unterliegt
 Was beschreibt die Gunsburg Landau Theorie phänomenologisch?-- Supraleitung
 Was trennt die Debye-Grenzfrequenz oder -Temperatur?-- die kollektive thermische Gitterschwingung von der unabhängigen thermischen Gitterschwingung 
 Was wird als kritische Opaleszenz bezeichnet?-- eine optische Erscheinung, die auftritt, wenn ein Stoff (Flüssigkeit oder Gas) an seinem kritischen Punkt angelangt ist, an dem die Unterscheidung zwischen den Phasen nicht mehr möglich ist
+Was beschreibt das Nernst-Verteilungsgesetz?--Verteilungsverhältnis eines bestimmten Stoffes in einem mehrphasigen Gemisch (z.B. gasförmige und flüssige Phase) 
 Wie verhalten sich optische Phononen?-- bei optischen Phononen bewegen sich die Atome innerhalb der Basis gegeneinander
 Was ist die latente Wärme?-- die bei einem Phasenübergang erster Ordnung aufgenommene oder abgegebene Enthalpie in der Einheit Joule. 
 Was beschreibt das Einstein-Modell?--eine Methode, um den Beitrag der Gitterschwingungen (Phononen) zur Wärmekapazität eines kristallinen Festkörpers zu berechnen
@@ -46,4 +93,3 @@ Was sind Erweiterungen der allgemeinen Gasgleichung durch eine Reihenentwicklung
 Was stellt das quantenmechanische Analogon zur Liouville-Gleichung der klassischen statistischen Mechanik dar?-- Von Neumann Gleichung, sie beschreibt die zeitliche Entwicklungs des Dichteoperators im Schrödingerbild
 Worum geht es in dem Versuch von Gay-Lusasc?-- freie Expansion eines Gases
 Wozu dient die mikrokanonische Zusandssumme?--  zur Beschreibung eines abgeschlossenen Systems mit konstanter innerer Energie, Volumen  und Teilchenzahl ohne Austausch mit der Umgebung im thermodynamischen Gleichgewicht.
-

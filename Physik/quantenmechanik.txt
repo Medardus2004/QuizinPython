@@ -37,3 +37,7 @@ Was ist ein unitärer Operator?-- ein bijektiver linearer Operator zwischen zwei
 Was ist die Slater-Determinante?-- eine Methode in der Quantenmechanik zur Konstruktion einer Wellenfunktion für Systeme, die aus Fermionen bestehen.
 Was wurde im Stern-Gerlach Versuch beobachtet?--Richtungsquantelung von Drehimpulsen  
 Was ist der Stark-Effekt?--die Verschiebung und Aufspaltung von atomaren bzw. molekularen Spektrallinien im statischen elektrischen Feld. 
+Aus welchen Anteilen setzt sich das Frequenzspektrum der Moleküle zusammen?--Rotationszustände (1000 mikrometer, IR), Schwigungszustände (10 Mikrometer), Elektronenzustände (0,1 Mikrometer)
+Wie liegen die Linien der Rotationsbanden?--äquidistant, aus ihrem Abstand lässt sich das Trägheitsmoment des Moleküls ablesen
+Auf welchen Fall bezieht sich das Franck-Condon-Prinzip?--dass sich neben dem Schwingungszustand auch die elektronische Anregung des Moleküls ändert
+Was sind die wichtigsten Schwächungsmechanismen der Röntgenstrahlung?--Photoeffekt, Streuung, Paarbildung

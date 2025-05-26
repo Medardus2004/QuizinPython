@@ -1,0 +1,9 @@
+Wie kann man sich die von einer Website verwendeten Technologien anzeigen lassen?-- Wappalyzer-Extension
+Wie kann man prüfen, ob zB Jinja anfällig ist für Server Side Template Injections?-{{config.__class__.__init__.__globals__[‘os’].popen(‘ls -la’).read()}}
+Was ist Server Side Template Injection?--wenn ein Angreifer in der Lage ist, eine native Vorlagensyntax zu verwenden, um eine böswillige Nutzlast in eine Vorlage zu injizieren, die dann serverseitig ausgeführt wird.
+Was bedeutet es, wenn eine File Upload Vulnerabilty existiert?-- Jede Art von Skript kann hochgeladen werden.
+Was ist ein Heap Dump?-- eine Momentaufnahme aller Objekte im Java Virtual Machine (JVM) -Haufen zu einem bestimmten Zeitpunkt
+Was bedeutet LSB pie executable?-- Die Adressen sind zufällig
+Wie geht man am Besten mit Assemblys um?-- gdb, dann gdb>file <Assembly>
+
+

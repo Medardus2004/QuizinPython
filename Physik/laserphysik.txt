@@ -1,0 +1,15 @@
+Wann verschwindet das Dipolmoment eines atomaren Zustandes nicht?-- wenn wir von atomaren Zuständen ausgehen, die aus einer Mischung von Zuständen mit verschiedener Parität bestehen.
+Wann treten Rabi Oszillationen auf?-- in einem quantenmechanischen Zwei-Niveau-System, welches mit einer externen periodischen Kraft mit einer (Kreis-)Frequenz wechselwirkt.
+Was macht ein äußeres Lichtfeld mit der anfänglichen Inversion?--Es verringert es, dreht es aber niemals um
+Was wird als Laserschwelle bezeichnet?--Wenn Oszillation einsetzt, die auftritt, wenn die Verstärkung die Verluste überschreitet
+Warum ist die Laser-Ratengleichung nicht allgemein analytisch lösbar?--weil sie bilinear sind, d.h. sie hängen vom Produkt n und p ab
+Wie kann man die Laserschwelle bestimmen?--Die minimale Pumprate muss eine Inversion erzeugen, die größer ist als diejenige, die gerade zum Einsetzen der Verstärkung reicht
+Wie kann man Inversion zwischen dem oberen und unteren Laserzustand aufrecht erhalten?--der untere Zustand muss schneller zerfallen als der obere
+wie weit hat sich der Strahl eines Helium Neon Lasers nach einem km ausgeweitet?-- etwa einen Meter
+Welche Resonatortypen gibt es?-- Laserdiode: Spalten aus einem Substrat, Ringresonator, Monolithisch integrierter Laserkristall
+Was ist der Unterschied zwischen Stehwellen- und Ringresonator?-- Während der Stehwellenresonator die wenigsten optischen Elemente wie Spiegel benötigt und leichter die Schwelle erreicht, nutzen Ringresonatoren mit ihrer laufenden Welle das Verstärkungsvolumen besser aus
+Was ist das Rayleigh-Kriterium?--  heuristische Bedingung für den Abstand zweier Lichtquellen, um sie als getrennt erkennen zu können, Mindestabstand gleich dem Abstand des ersten Minimums vom Zentrum des Beugungsmusters
+Welche Lasertypen gibt es?--Gaslaser, Festkörperlaser, Diodenlaser, durchstimmbare Laser
+Nenne ein Beispiel für einen 4-Niveau-Laser?-- Helium-Neon-Laser
+Aus was bestehen Excimer-Laser?--Edelgashalogeniden, diese Laser werden im Pulsbetrieb verwendet
+Warum kann man aus Silizium keine Diodenlaser bauen?--Weil Silizium eine direkte Bandlücke hat

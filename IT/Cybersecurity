@@ -3,6 +3,7 @@ Was ist Samba?--ein freies Programmpaket, das es ermöglicht, Microsoft-Windows-
 Was ist ACL?-- eine Liste von Regeln, die festlegt, welchen Benutzern oder Systemen der Zugriff auf ein bestimmtes Objekt oder eine Systemressource gewährt oder verweigert wird.
 Was ist ein Access Point?--ein Gerät, das Daten senden und empfangen kann. Über eine Ethernet-Kabelverbindung zum Router erhält der Access Point ein Internet-Signal, das er in ein separates WLAN-Netz umwandelt
 Was ist ein audit?--eine geplante und eigenständige Prüfung, Kontrolle oder Evaluierung von Informationen, Prozessen, Systemen, Kontrollen oder Organisationen.
+Was ist die GDPR? --General Data Protection Regulation, bezeichnet die Verordnung der Europäischen Union 2016/679, mit der die Regeln zur Verarbeitung personenbezogener Daten durch die meisten Verantwortlichen, sowohl private wie öffentliche, EU-weit vereinheitlicht werden.
 Was does DSInternals?--exposes several internal features of Active Directory and Azure Active Directory.
 what does the Add-MpPreferences-Cmdlet?--modifies settings for Windows Defender. Use this cmdlet to add exclusions for file name extensions, paths, and processes, and to add default actions for high, moderate, and low threats.
 Was ist Address Space Layout Randomization?--es werden Adressbereiche den Programmen auf zufälliger Basis zugewiesen, wodurch die Zuweisung der Adressbereiche eines Programms praktisch nicht mehr vorhersagbar ist. Dies soll Angriffe durch Pufferüberlauf erschweren. 
@@ -12,3 +13,12 @@ What is airodump-ng used?--for packet capture, capturing raw 802.11 frames.
 Was ist Android?--ein Betriebssystem als auch eine Softwareplattform für mobile Geräte wie Smartphones, Tabletcomputer, Fernseher, Mediaplayer, Netbooks und Autos. Basis ist ein Linux-Kernel.
 Was ist OpenVAS?--Schwachstellenscanner für Linux-Systeme, mit dem Admins über eine Weboberfläche nach Schwachstellen auf anderen Netzwerkgeräten suchen können
 what is Apple Blee?--scripts that are experimental PoCs that show what an attacker get from Apple devices if they sniff Bluetooth traffic
+Was ist wecutil?-- Windows, Ermöglicht ihnen das Erstellen und Verwalten von Abonnements für Ereignisse, die von Remotecomputern weitergeleitet werden.
+Was ist EFS?-- EFS verwendet asymmetrische Kryptografie, um einzelne Dateien zu verschlüsseln oder zu entschlüsseln. Windows generiert automatisch die Schlüsselpaare) und speichert sie im Zertifikatspeicher, wobei sie durch den Hash Ihres Kennworts geschützt werden
+Was ist ein Hypervisor?-- eine Funktion, die es erlaubt, eine virtuelle Umgebung zu definieren
+Wofür wird LUKS oder Filevault verwendet?-- Um Datenblöcke zu verschlüsseln, zuerst Linux dann Mac
+Was ist eine geschlossene Plattform, (Walled Garden)? eine Plattform, die vom Hersteller mit Restriktionen versehen ist. Es handelt sich um einen Kontrollmechanismus, der die Nutzer im eigenen System halten soll.
+Was ist WebDAV?-- WebDAV (Web-based Distributed Authoring and Versioning) ist ein Netzwerkprotokoll zur Bereitstellung von Dateien über das Internet. Es basiert auf 
+Was ist WebAuthn?-- Programmierschnittstellenstandard zur direkten Authentifikation von Nutzern
+Wofür nutzt man Samba Winbind?-- um Ubuntu an einen Windows-Domäne anzumelden
+Was ist Foremost?--eine freie Software zur Wiederherstellung von gelöschten, noch nicht überschriebenen Dateien oder Dateien aus beschädigten Dateisystemen mittels Carving.

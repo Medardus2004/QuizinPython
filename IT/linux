@@ -1,0 +1,50 @@
+Welche Spezialregister gibt es?-- Befehlsregister, Nullreegister, Statusregister
+Reihenfolge der Speicherpyramide?-- Die Register des Prozessors, L1-, L2, L3- Cache, Hauptspeicher, Festplatte, Fehlende Daten
+Wie kann ein Prozessor unterbrochen werden?-- Durch Interrupts
+Welche Aufgaben übernimmt der Prozessor?-- das Ausführen arithmetisch-logischer Operationen, das Lesen und Schreiben von Daten im Arbeitsspeicher, das Ausführen von Sprüngen im Programm
+Wie kann der Speicherbereich einzelner Programme voneinander geschützt werden?-- Durch virtuellen Speicher
+Wer übersetzt die physische  in die virtuelle Adresse?-- die Hardwareeinheit MMU (Memory Management Unit) 
+Welche (Berechtigungs-)Ringe nutzen Windows und Linux?-- Ring 0 (OS samt Treiber), Ring 3 (Benutzerprogramme)
+Kann ein Benutzerprogramm auf die Hardware zugreifen?-- ja, es kann zum Beispiel Daten aus dem Hauptspeicher in Register laden, alle möglichen arithmetischen und logischen Operationen ausführen sowie bestimmte Interrupts auslösen.
+Wie heißen sie Schnittstellen, über die Benutzerprogramme mit dem Kernel kommunizieren können?-- Syscalls (es gibt etwa 300)
+Durch welche Standardbibliothek kann man Syscalls direkt nutzen?-- libc (#include <unistd.h>)
+Welche 4 Aufgaben hat das Betriebsystem?-- Verwalten der Betriebsmittel, ermöglichen des Ausführens von Programmen, Abstraktion und Virtualisierung
+Was heißt Abstraktion?-- Kein Maschinencode, sondern hübsche Buttons oder z.B.: Syscalls
+Was heißt Virtualisierung?-- Ressourcenverteilung
+Wie lautet der Funktionsaufruf um mehr (virtuellen) Speicher anfordert?-- malloc(), sorgt dafür, dass die MMU entsprechend initialisiert wird. Dies ist kein Syscall, sondern wie Free eine Funktion der Standard-C- Bibliothek
+Was ist Spooling?-- Dient zB Verwaltung von IO-Geräten, verhindert dass zwei Aufgaben gleichzeitig ablaufen, zB Drucker
+Was ist ein Prozess?-- ein Programm in Ausführung.
+Wie lauten die 3 Funktionsaufrufe an den Stack?-- push, top, pop
+was ist ein Thread?-- ein Ausführungsfaden, der aus einem aktuellen Befehlszeiger, einem eigenen Stack und dem Inhalt der Prozessorregister besteht
+Welche Threads kann man unterscheiden?-- KLTs (Kernellevel-Threads), PULTs (Puren Userlevel-Threads),  Kernelmode-Threads
+Was ist ein Task?-- ein Prozess mit mehreren Threads
+Was ist der Unterscheid zwischen Prozess und Task?--Ein Prozess hat einen Ausführungsfaden, ein Task hat mehrere
+welche 2 Syscalls starten einen neuen Prozess und was genau machen sie?--  fork() kopiert einen Prozess, so dass das alte Programm in zwei Prozessen ausgeführt wird, und exec*() ersetzt in einem laufenden Prozess das alte Programm durch ein neues. 
+welche Prozesszustände gibt es?-- Running, ready, blocked
+Nach welchem Prinzip funktioniert der Completely Fair Scheduler?-- Beim Taskwechsel wird der Task gestartet, der schon am längsten auf die Ausführung bzw. Fortsetzung wartet. 
+Welche Signale der IPC beenden einen Prozess?-- SIGTERM, SIGKILL
+Was ist Paging?--verfügbare Speicher wird zur besseren Verwaltung in Seiten unterteilt
+Was ist Swapping?--bestimmte länger nicht benötigte Speicherbereiche werden auf die Festplatte ausgelagert werden
+Was ist die Pagetable?--Tabelle die jeder virtuellen Seite eines Prozesses eine physische zuordnet
+Was macht der TLB?-- Der MMU-Cache, der Translation Lookaside Buffer (TLB) ist dafür da, den Zugriff auf häufig genutzte Seiten zu beschleunigen
+Wie ist eine ELF-Datei aufgebaut?-- ELF-Header (mit Verweisen auf die anderen Teile der Datei), Programmkopf-Tabelle, Sektionskopf-Tabelle, Sektionen, Segmente
+Was beschreibt das Working Set?-- alle in einem bestimmten Programmabschnitt benötigten Daten
+Was ist das Resident Set?-- Die Menge aller aktuell im Hauptspeicher befindlichen Daten eines Prozesses
+Wann spricht man von Thrashing?-- Situation, wenn ein Computersystem oder -programm viel Zeit und Ressourcen für nicht produktive Aufgaben aufwendet
+Was für unterschiedliche Daten speichern Stack und Heap?-- Stack speichert lokale Daten, Heap speichert globale Daten
+Zwischen welchen Geräten unterscheidet Linux?-- zeichenorientiert und blockorientiert
+Was sind Callbacks?-- Funktionen, die genau dann ausgeführt werden, wenn ein entsprechender Event – in diesem Fall der Aufruf des entsprechenden Syscalls auf eine Gerätedatei – auftritt.
+Wie kann man die geladenen Module anzeigen lassen?-- lsmod
+Wie erhält man Info über ein geladenes Modul?-- modinfo <module>
+wie listet man Logins?-- lastlog, w, who -q
+wie läd man ein Modul zur Laufzeit in den Kernel?-- modprobe
+wie listet man Module auf?-- lsmod
+was ist initrd ?-- ein temporäres Dateisystem, das vom Linux-Kernel während des Bootvorgangs verwendet wird
+wie kann man sich Infos über ein Modul anzeigen lassen?-- modinfo
+Was sind Unix/Domain Sockets?-- Endpunkte von bidirektionalen Kommunikationsverbindungen bei der lokalen Interprozesskommunikation (IPC) unter Unix-Betriebssystemen.
+Welche IPCs gibt es?-- Pipes (Ringpuffer), Semaphore (Synchronisation), Shared Memory (Gemeinsame Adressräume), Unix-Domain-Sockets
+Wie lauten die 5 Phasen beim Bootstrap-Vorgang?-- Booten der Hardware, Bootcode Phase, Startphase des Kernels, starten des Init-Prozesses, Bootskript Phase
+Welche Dateitypen existiren unter Linux?-- Reguläre Dateien, Directorys, Links, Sockets, Named Pipes, Gerätedateien
+Was ist der Unterschied zwischen BIOS und UEFI?-- UEFI hat benutzerfreundlichere Oberfläche, die Unterstützung größerer Laufwerke und Partitionen sowie robuste Sicherheitsfunktionen.
+An welchen Bus ist der Prozessor angeschlossen?-- An den System Bus 
+Was verbindet den System Bus mit anderen Bussen?-- Host-bridge

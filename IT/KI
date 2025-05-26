@@ -1,0 +1,25 @@
+Was sind die wichtigsten Workloads der KI Software?-- Maschinelles Lernen, Maschinelles Sehen, Linguistische Datenverarbeitung, Dokumentintelligenz, Wissengewinnung, Generative KI
+Welche Arten von maschinellen Lernen gibt es?-- Überwachtes Lernen, Unüberwachtes Lernen (Clustering)
+In welche Bereicht kann man überwachtes Lernen untergliedern?-- Regresstion, (binäre, Multilkassen) Klassifizierung
+Was ist Regression?-- überwachtes maschinelles Lernen, bei der die vom Modell vorhergesagte Bezeichnung ein numerischer Wert ist. 
+Was sind die Regressionsauswertungsmetriken?-- Mittlere absolute Abweichung, Mittlere quadratische Abweichung, mittlere quadratische Gesamtabweichung
+was ist das Bestimmtheitsmaß?-- eine Metrik, die den Anteil der Varianz in den Validierungsergebnissen misst, der durch das Modell erklärt werden kann, im Gegensatz zu einem anomalen Aspekt der Validierungsdaten
+An welchen Wert sollte sich das Bestimmtheitsmaß annähern?-- 1, d.h. umso besser passt es zu den Validierungsdaten
+Was ist die einfachste Metrik, die man bei binärer Klassifizierung aus der Konfusionsmatrix berechnen kann?-- Genauigkeit (TN+TP) ÷ (TN+FN+FP+TP)
+Wann ist die ROC-Kurve (binäre Klassifizierung) ideal?-- würde sie an der TPR-Achse links gerade nach oben und dann über die FPR-Achse oben verlaufen
+Welche Algorithmen zur Multiklassen-Klassifizierung gibt es?-- One-vs-Rest-Algorithmen trainieren eine binäre Klassifizierungsfunktion für jede Klasse; multinomialen Algorithmus, der eine einzelne Funktion erstellt, die eine mehrwertige Ausgabe zurückgibt.
+Was ist der am häufigste verwendete Algorithmus im Clustering?-- K-Means-Clustering
+welche Möglichkeiten der Clustertrennung gibt es?-- Durchschnittliche Entfernung zum Clusterzentrum, Durchschnittliche Entfernung zu den anderen Zentren, Maximaler Abstand zum Clustermittelpunkt, Silhouette
+Was ist Azure KI Services?--Portfolio von KI-Funktionen, die die Automatisierung von Workloads hinsichtlich Sprache, Vision, intelligente Suche, Inhaltsgenerierung und vielem mehr ermöglichen.
+Wie können Entwickler auf KI-Dienste zugreifen?--über REST-APIs, Clientbibliotheken oder mit Tools wie Logic Apps und Power Automate
+Was sind die zwei Arten von KI-Dienstressourcen?-- Multi-Service: Ressource, die Zugriff auf mehrere Azure AI-Dienste mit einem einzigen Schlüssel und Endpunkt ermöglicht oder Einzeldienst: Zugriff auf einen einzelnen Azure AI-Dienst bietet
+Was beschreibt generative KI?-- eine Kategorie von Funktionen innerhalb der KI, die eigene Inhalte erstellen
+Aus welchen zwei Komponenten besteht die Transformermodellarchitektur?-- Encoderblock, der semantische Darstellungen des Trainingsvokabulars erstellt; Decoderblock, der neue Sprachsequenzen generiert
+Wo findet man Foundationmodelle?-- Azure OpenAI Service und im Modellkatalog
+in welche Kategorien können Sprachmodelle aufgeteilt werden?-- große und kleine
+Was sind Copilots?-- Assistenten für generative KI, die häufig als Chatschnittstellen in Anwendungen integriert sind.
+Was sind die 3 Kategorien des Co-Pilots?-- standardmäßige Copilots wie Microsoft Copilot für Microsoft 365; erweitern, um benutzerdefinierte Geschäftsprozesse oder -aufgaben zu unterstützen, indem Sie Ihre eigenen Daten verwenden; benutzerdefinierte Copilots erstellen, um generative KI in Geschäfts-Apps zu integrieren 
+Was beschreibt Prompt Engineering?-- den Prozess der Verbesserung von Prompts.
+Welche zwei tools bietet Microsoft um Microsoft Copilot anzupassen oder benutzerdefinierte Copiloten zu entwickeln: Copilot Studio und Azure KI Studio
+Was ist Microsoft Security Copilot?-- ein cloudbasiertes, KI-gestütztes Sicherheitsanalysetool, das darauf ausgelegt ist, diese Herausforderungen zu bewältigen
+Welche Elemente sollten beim Schreiben einer Eingabeaufforderung für Security Copilot berücksichtigt werden?-- Ziel, Kontext, Erwartung, Quelle
