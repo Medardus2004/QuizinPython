@@ -1,0 +1,11 @@
+What are the 3 options to authenticate your API?-- Basic Auth, Bearer Tokens, JWT
+How are username and password transmitted in Basic auth?-- joined with a colon, encoded in B64 and send it with the authorization header with every request
+Is Basic Auth encrypted?-- in https, yes; in http, no
+What is the difference between bearer and token?-- Bearer: HOW you send it; Token: WHAT you send
+Why do you call it an opeque token?-- The token itself contains no information, the server must look it up in every single request
+What is JWT?-- JSon Web Tokens, The token itself tells us, who the user is, without requests to the database
+What are the 3 parts of the JWT?-- header (algorithm to sign the token), payload (pieces of information about the user), signature
+Is JWT encoded or encrypted?-- Not encrypted, only encoded!!!
+What is the Two-Token strategy?-- Access token (expires after 15 min), Refresh Token (daylong lifetime)
+How does HS256 and RS256 encrypt?-- HS256 with a symmetric key, RS256 assymmetric
+Name a view security tips?-- always use https, Use HTTP only cookies with the same site attribute set to strict, appropriate expiration times, established crypto: i.e. jsonwebtoken, JWT algorithm verification
