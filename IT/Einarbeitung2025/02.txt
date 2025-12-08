@@ -1,0 +1,6 @@
+what does scope mean?-- accessibility (visibility) of variables
+which scope does JS have?-- global, function, block
+what is the strict mode?-- In "Strict Mode", undeclared variables are not automatically global.
+What is Hoisting?--JavaScript's default behavior of moving declarations to the top of the current scope
+when was the use strict directive introduced?-- in ECMAScript version 5.
+What are the best style guides and pracitces?-- camelCase, spaces around operators, Avoid global variables, avoid new, avoid ==, avoid eval(), Reduce DOM Access

@@ -9,3 +9,4 @@ Is JWT encoded or encrypted?-- Not encrypted, only encoded!!!
 What is the Two-Token strategy?-- Access token (expires after 15 min), Refresh Token (daylong lifetime)
 How does HS256 and RS256 encrypt?-- HS256 with a symmetric key, RS256 assymmetric
 Name a view security tips?-- always use https, Use HTTP only cookies with the same site attribute set to strict, appropriate expiration times, established crypto: i.e. jsonwebtoken, JWT algorithm verification
+Are JWTs stateless?-- yes
