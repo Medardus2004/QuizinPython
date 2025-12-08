@@ -1,5 +1,6 @@
 Was sind die 5 Axiome der QM?-- Zustand durch W-Fkt, Observable durch hermitischen Operator, Erwartungswert durch Mittelwertbildung, Dynamik des Systems durch S. bzw. D-Gleichung, wenn Messung Eigenwert des Operators A, so ist die Wellenfunktion Eigenzustand φn(x, t) des Operators übergegangen
 Was ist die Bohrsche Quantisierungsbedingung?-- Von allen in der klassischen Theorie zugelassenen Kreisbahnen dürfen die Elektronen nur auf denjenigen Bahnen kreisen, in denen der Drehimpuls eines Elektrons ein ganzzahliges Vielfaches von h2π ist, wobei h die Plancksche Konstante ist.
+Warum kann man durch FT vom Orts- in den Impulsraum wechseln?--Impuls und Ort zueinander konjugiert sind, Impuls-Eigenzustände ebene Wellen sind (Fourierbasis),die Fouriertransformation genau die mathematische Operation ist, die zwischen diesen beiden Beschreibungen vermittelt.
 was sind Auf- und Absteigeoperatoren?-- Für diesen Lösungsweg definiert man zwei Operatoren , die einem Oszillator jeweils ein Energiequant hw entziehen oder hinzufügen.
 Was ist ein adjungierter Operator?--ein beschränkter linearer Operator in einem Hilbert-Raum, der durch die Bedingung xLy = L*x, y für alle x, y in H definiert ist
 Wie entsteht eine adjungierte Matrix?-- durch Vertauschen von Zeilen und Spalten und anschließende komplexe Konjugation entstandene (n × n)-Matrix.

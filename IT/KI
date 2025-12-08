@@ -1,25 +1,34 @@
-Was sind die wichtigsten Workloads der KI Software?-- Maschinelles Lernen, Maschinelles Sehen, Linguistische Datenverarbeitung, Dokumentintelligenz, Wissengewinnung, Generative KI
-Welche Arten von maschinellen Lernen gibt es?-- Überwachtes Lernen, Unüberwachtes Lernen (Clustering)
-In welche Bereicht kann man überwachtes Lernen untergliedern?-- Regresstion, (binäre, Multilkassen) Klassifizierung
-Was ist Regression?-- überwachtes maschinelles Lernen, bei der die vom Modell vorhergesagte Bezeichnung ein numerischer Wert ist. 
-Was sind die Regressionsauswertungsmetriken?-- Mittlere absolute Abweichung, Mittlere quadratische Abweichung, mittlere quadratische Gesamtabweichung
-was ist das Bestimmtheitsmaß?-- eine Metrik, die den Anteil der Varianz in den Validierungsergebnissen misst, der durch das Modell erklärt werden kann, im Gegensatz zu einem anomalen Aspekt der Validierungsdaten
-An welchen Wert sollte sich das Bestimmtheitsmaß annähern?-- 1, d.h. umso besser passt es zu den Validierungsdaten
-Was ist die einfachste Metrik, die man bei binärer Klassifizierung aus der Konfusionsmatrix berechnen kann?-- Genauigkeit (TN+TP) ÷ (TN+FN+FP+TP)
-Wann ist die ROC-Kurve (binäre Klassifizierung) ideal?-- würde sie an der TPR-Achse links gerade nach oben und dann über die FPR-Achse oben verlaufen
-Welche Algorithmen zur Multiklassen-Klassifizierung gibt es?-- One-vs-Rest-Algorithmen trainieren eine binäre Klassifizierungsfunktion für jede Klasse; multinomialen Algorithmus, der eine einzelne Funktion erstellt, die eine mehrwertige Ausgabe zurückgibt.
-Was ist der am häufigste verwendete Algorithmus im Clustering?-- K-Means-Clustering
-welche Möglichkeiten der Clustertrennung gibt es?-- Durchschnittliche Entfernung zum Clusterzentrum, Durchschnittliche Entfernung zu den anderen Zentren, Maximaler Abstand zum Clustermittelpunkt, Silhouette
-Was ist Azure KI Services?--Portfolio von KI-Funktionen, die die Automatisierung von Workloads hinsichtlich Sprache, Vision, intelligente Suche, Inhaltsgenerierung und vielem mehr ermöglichen.
-Wie können Entwickler auf KI-Dienste zugreifen?--über REST-APIs, Clientbibliotheken oder mit Tools wie Logic Apps und Power Automate
-Was sind die zwei Arten von KI-Dienstressourcen?-- Multi-Service: Ressource, die Zugriff auf mehrere Azure AI-Dienste mit einem einzigen Schlüssel und Endpunkt ermöglicht oder Einzeldienst: Zugriff auf einen einzelnen Azure AI-Dienst bietet
-Was beschreibt generative KI?-- eine Kategorie von Funktionen innerhalb der KI, die eigene Inhalte erstellen
-Aus welchen zwei Komponenten besteht die Transformermodellarchitektur?-- Encoderblock, der semantische Darstellungen des Trainingsvokabulars erstellt; Decoderblock, der neue Sprachsequenzen generiert
-Wo findet man Foundationmodelle?-- Azure OpenAI Service und im Modellkatalog
-in welche Kategorien können Sprachmodelle aufgeteilt werden?-- große und kleine
-Was sind Copilots?-- Assistenten für generative KI, die häufig als Chatschnittstellen in Anwendungen integriert sind.
-Was sind die 3 Kategorien des Co-Pilots?-- standardmäßige Copilots wie Microsoft Copilot für Microsoft 365; erweitern, um benutzerdefinierte Geschäftsprozesse oder -aufgaben zu unterstützen, indem Sie Ihre eigenen Daten verwenden; benutzerdefinierte Copilots erstellen, um generative KI in Geschäfts-Apps zu integrieren 
-Was beschreibt Prompt Engineering?-- den Prozess der Verbesserung von Prompts.
-Welche zwei tools bietet Microsoft um Microsoft Copilot anzupassen oder benutzerdefinierte Copiloten zu entwickeln: Copilot Studio und Azure KI Studio
-Was ist Microsoft Security Copilot?-- ein cloudbasiertes, KI-gestütztes Sicherheitsanalysetool, das darauf ausgelegt ist, diese Herausforderungen zu bewältigen
-Welche Elemente sollten beim Schreiben einer Eingabeaufforderung für Security Copilot berücksichtigt werden?-- Ziel, Kontext, Erwartung, Quelle
+Welche Evauluations-Metriken lassen sich aus der Konfusionsmetrik auslesen?-- precision, recall, accuracy, F1-Score
+Was ist precission?-- Definiert den Anteil der einer Klasse richtig zugeordneten Testobjekte
+Was ist der Recall?-- Anteil der richtig erkannten Testobjekte einer Klasse
+Was ist die Accuracy?-- Anteil der korrekt vorhergesagten Klassen
+Was ist der F1-Score?-- Maß für die Gesamtgüt 
+Nenne die Fehlerfunktionen für Regressionsprobleme?-- Mean Absolute Error, Mean Square Error
+Nenne die Fehlerfunktionen für KLassifikationsaufgaben?-- Categorial Crossentropy, Log Loss, Relative Entropy, Loss Entropy
+Nenne einige typische Aktivierungsfunktionen?-- Identitätsfunktion, Heaviside Funktion, sigmoid, tanh, ReLU, Softsign, SoftMAX
+Wer erfand das Perceptron?-- Franck Rosenblatt, 1957
+Was ist das Adaline-Modell?-- bildet ein Perzeptron, bei dem dem Lernalgorithmus auch die Aktivierung einer Ausgabeeinheit als Information zur Verfügung steht.
+Was ist Konnektionismus?--ein Problemlösungsansatz in der Kybernetik und beschäftigt sich mit dem Verhalten vernetzter Systeme basierend auf Zusammenschlüssen von künstlichen Informationsverarbeitungseinheiten.
+Was ist ein Assoziativspeicher?-- auch inhaltsadressierbarer Speicher (englisch Content Addressable Memory, CAM) ist eine Speicherform, bei der Speicherinhalte nicht mittels Adressierung der Speicherzelle, sondern mittels Assoziation des Inhalts abgerufen wird.
+Was ist die ROC-Kurve?-- auch Grenzwertoptimierungskurve oder Isosensitivitätskurve genannt ist eine Methode zur Bewertung und Optimierung von Analysestrategien. Je näher die ROC-Kurve an der oberen linken Ecke liegt, desto besser ist die Leistung des Modells.
+Was macht Pooling?-- Reduktion einer Matrix auf weniger Parameter.
+What ist the  bag-of-words (BoW) model ?-- is a model of text which uses an unordered collection (a "bag") of words.
+What is a confusion matrix?-- also known as error matrix, is a specific table layout that allows visualization of the performance of an algorithm,
+Was ist Binning??-- bezeichnet in verschiedenen Bereichen das Zusammenfassen von Werten oder Elementen in Gruppen, sogenannte "Bins" oder "Behälter"
+Was ist die Kreuzentropie?-- ein Maß für die Qualität eines Modells für eine Wahrscheinlichkeitsverteilung. Eine Minimierung der Kreuzentropie in Bezug auf die Modellparameter kommt einer Maximierung der Log-Likelihood-Funktion gleich.
+Name a few augmentation methods?--flipping, rotation, cropping, scaling, translation, and perspective transformations
+Was ist das  Neocognitron?-- ein hierarchisches mehrschichtiges künstliches neuronales Netz, an das visuelle Wahrnehmungssystem angepasst. 
+Wofür steht CRISP-DM?--CRISP-DM steht für "Cross Industry Standard Process for Data Mining" und ist ein standardisiertes Vorgehensmodell für Data Mining Projekte.
+wie ist in LLMs das Verhältnis zwischen Attention Blocks und MLPs?--1:2
+Wie ist ein MLP aufgebaut?-- Linear Up Matrix, ReLu, Linear Down Matrix
+Was versteht man unter dem Lemma von Johnson-Lindenstrauss?-- ein Resultat über die verzerrungsarme Einbettung von Punkten aus einem hochdimensionalen in einen niedrig-dimensionalen euklidischen Raum
+Was ist eine Abelsche Gruppe?--Eine Gruppe die kommutiert
+Wie viele Parameter organisiert in wie vielen Matrizen hat GPT3?-- 175 MRD Parameter in etwa 28000 Matrizen
+Was sind die Schritte eines LLMs?-- Embedding, key, query, value, output, Up-projection, Down-projection
+Estimator-- Ein Estimator ist ein Objekt, das aus Daten lernt, zum Beispiel mithilfe eines Klassifikations-, Regressions- oder Clustering-Algorithmus
+Predictor-- Im Predicot-Objekt implementiert man zB die Methode zur Klassifikation für überwachtes Lernen.
+Transformer--Im Transformer Objekt können wir Datenfilterung oder -änderung vornehmen
+Model--Im Model-Objekt können wir die Qualität nach dem "Goodness of fit"-Maß implementieren.
+Was ist eine Gliazelle?--ein Sammelbegriff für Zellen im Nervengewebe, die sich strukturell und funktionell von den Nervenzellen (Neuronen) abgrenzen lassen.
+Wofür steht HDF5?--Hierarchical Data Format bezeichnet die Datenformate HDF4 und HDF5. Diese Formate werden insbesondere in wissenschaftlichen Anwendungen für die Speicherung großer Datenmengen verwendet.
+Adaline--Basiert auf dem Perceptron, verwendet aber eine andere Art der Fehlerberechnung genannt RMS. Für die Korrektur der Gewichte wird nun eine viel feinere Korrektur der Gewichte verwendet. Zusätzlich wird die Lernrate eta eingeführt, die definiert, wie stark der Einfluss der Fehlerwerte auf die neuen Gewichte

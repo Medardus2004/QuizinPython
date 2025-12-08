@@ -3,7 +3,7 @@ Wie Viele Galaxienhaufen beinhaltet der Virgio-Superhaufen?-- 100 bis 200
 Wie viele Lichtjahre ist die Lokale Gruppe groß?-- 5 bis 10 Mio. Lichtjahre
 How big is one megaparsec in lightyears?--ca. 5.5 Mio
 In welchem Sternbild befindet sich Boötes Void?-- Im Bärenhüter
-Wie ist die Reihenfolge zur Lösung der Feldgleichung der ART?-- Aufstellung Metrik, und mehr
+Wie ist die Reihenfolge zur Lösung der Feldgleichung der ART?-- Zuerst bestimmt man das Wegelement. Daraus folgt die Metrik. Aus der Metrik lassen sich die Christophel-Symbole bestimmen. Aus diesen folgt der Krümmungstensor, der zur Bestimmung des Krümmungsskalars verwendet werden kann.
 Wie lautet das Birckhoff-Theorem?--Das externe Gravitationsfeld einer sphärisch symmetrischen Massenverteilung ist gleich dem Feld einer punktförmigen Ansammlung der gesamten Masse im Mittelpunkt
 Was ist die Brans-Dicke-Theorie?--eine klassische Feldtheorie und eine der einfachsten Erweiterungen der ART
 Was ist der de-Sitter Effekt?-- auch geodätischer Effekt, Man beobachtet die Präzession eines im Gravitationsfeld frei fallenden Kreisels
