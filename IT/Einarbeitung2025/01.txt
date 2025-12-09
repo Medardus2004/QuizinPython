@@ -10,3 +10,11 @@ What is the Two-Token strategy?-- Access token (expires after 15 min), Refresh T
 How does HS256 and RS256 encrypt?-- HS256 with a symmetric key, RS256 assymmetric
 Name a view security tips?-- always use https, Use HTTP only cookies with the same site attribute set to strict, appropriate expiration times, established crypto: i.e. jsonwebtoken, JWT algorithm verification
 Are JWTs stateless?-- yes
+Which JavaScript can access localStorage?-- Any, localStorage.getItem('token'), therefore httpOnly Cookie
+What ist CSRF?-- Cross Site request Forgery, malicious Websites use (old) cookies to authenticate, (set samesite Attribute to stricti)
+What is the difference between OAuth and OpenID Connect?-- Oauth: Authoriztation, OpenID Connect: Authentication
+What can an OAuth Token do and what not?-- Can Access specific data and perform allowed actions, cannot have full control
+What are confidential clients?-- backend servers running node.js, Python, Java. Users never see it, secrets are actually secret
+What is a public client?-- mobile app, javascript running on a server, you cannot keep secrets
+What is PKCE?-- Proof Key for Code Exchange
+What is the main grant type of OAuth 2.0?-- Authorization Code with PKCE
