@@ -6,3 +6,10 @@ when was the use strict directive introduced?-- in ECMAScript version 5.
 What are the best style guides and pracitces?-- camelCase, spaces around operators, Avoid global variables, avoid new, avoid ==, avoid eval(), Reduce DOM Access
 What does this refer to?--Alone and in a function, this refers to the global object. In a function, in strict mode, this is undefined. In an object method, this refers to the object. In an event, this refers to the element that received the event.
 what is a self invoked function?-- it starts immediately after it is defined
+is a function always a method?-- yes, if a function is not a method of a JavaScript object, it is a method of the global object 
+what can you do with the call() method?--It can be used to invoke (call) a method with an object as an argument (parameter).
+when should you use apply() instead of call()?-- The apply() method is very handy if you want to use an array instead of an argument list.
+How can you preserve this in a method call?-- When a function is used as a callback, this is lost.
+What does the Object.assign() method do?-- copies properties from one or more source objects to a target object.
+
+
