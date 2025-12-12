@@ -11,5 +11,10 @@ what can you do with the call() method?--It can be used to invoke (call) a metho
 when should you use apply() instead of call()?-- The apply() method is very handy if you want to use an array instead of an argument list.
 How can you preserve this in a method call?-- When a function is used as a callback, this is lost.
 What does the Object.assign() method do?-- copies properties from one or more source objects to a target object.
-
-
+What is in git the difference between checkout, reset and revert?-- checkout moves the view, reset moves branches, revert adds corrected history
+What should you do, when everything goes wrong in git?-- git reflog
+What is the DOM?-- Document object model, programming interface, that arranges html or XML as a tree structure , an API that JS uses
+What is JS?-- a high level interpreted programming language, dynamic typing, prototype inheritance, functions are first class citizens, the language is event driven, runs on client and serverside
+What is the difference between var, let and const?--var is function scoped, let is block scoped, const makes the binding immutable
+what are the two steps of hoisting?-- creation and initialization
+can arrow functions be used as constructors?-- no and they also dont have their own agruments object

@@ -1,0 +1,6 @@
+when do you need OAuth 2.0?-- When you need third party data
+What is the Homepage URL?-- Where our app runs locally, i.e. http://locahost:3000
+What is the Authorization callback URL?-- Where the third party tools (i.e. github) sends users after authentication
+What does OpenID Connect add to OAuth?-- an ID Token
+Name Azures Identity provider?-- Azure AD, that mean Entra
+What is SCIM?-- System for Cross-domain Identity Management, RestAPI service that syncs user data from your identity provider to every app, it handles the user life cycle

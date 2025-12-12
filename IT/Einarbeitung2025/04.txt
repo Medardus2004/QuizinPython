@@ -1,0 +1,4 @@
+What are the 7 primitive JS datatypes?--Number, String, Boolean, Undefined, Null, Symbol, BigInt
+how to determine the type?-- typeof()
+How can you create objects?-- Object literals, Constructor functions, ES6 Class, Object.create()
+What are the DOM element selection methods?-- getElementbyId(), getElementsbyClassName(), querySelector(), querySelectorAll()
