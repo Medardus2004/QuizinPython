@@ -2,3 +2,7 @@ What are the 7 primitive JS datatypes?--Number, String, Boolean, Undefined, Null
 how to determine the type?-- typeof()
 How can you create objects?-- Object literals, Constructor functions, ES6 Class, Object.create()
 What are the DOM element selection methods?-- getElementbyId(), getElementsbyClassName(), querySelector(), querySelectorAll()
+When were JS classes introduced?-- ECMAScript2015
+Which JS method refers to the parent class?-- super()
+What is the difference between a JS function and a generator?--A Generator (function*) can return multiple values, yield a stream of data, can be paused and resumed
+
