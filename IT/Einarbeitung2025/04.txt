@@ -5,4 +5,9 @@ What are the DOM element selection methods?-- getElementbyId(), getElementsbyCla
 When were JS classes introduced?-- ECMAScript2015
 Which JS method refers to the parent class?-- super()
 What is the difference between a JS function and a generator?--A Generator (function*) can return multiple values, yield a stream of data, can be paused and resumed
-
+Which states can a promise have?-- pending, rejected, fullfilled
+How do you go back 2 pages?--window.history.go(-2);
+What is the difference between a sessionStorage and a localStorage object?--The difference is that the sessionStorage object stores data for one session.
+What is a web worker?--a JavaScript that runs in the background, independently of other scripts, without affecting the performance of the page
+What are the two objects that allow for programming at the meta level in JS-- Proxy and Reflect
+What does Metaprogramming refer to?--a number of ways a program can manipulate itself

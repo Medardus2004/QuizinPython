@@ -1,0 +1,2 @@
+What ist the main diffrence between .NET framework and .NET Core?-- Main difference lies in its  cross-platform capability. .NET Core supports the "build once, run anywhere" principle, enabling applications to run on multiple operating systems. The .NET Framework, however, is compatible only with Windows
+What is the big thing with .NET 5?--With the introduction of .NET 5 and later versions, Microsoft has unified the ecosystem, making the distinction between .NET Core and the .NET Framework increasingly academic, as the newer .NET platform combines the best features of both.
